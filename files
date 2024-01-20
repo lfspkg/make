@@ -1,3 +1,0 @@
-./src/read.c:2103:        O (fatal, flocp, _("mixed implicit and static pattern rules"));
-./src/read.c:2126:            O (fatal, flocp, _("mixed implicit and normal rules"));
-./src/read.c:2311:           _("*** mixed implicit and normal rules: deprecated syntax"));
