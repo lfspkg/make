@@ -1,0 +1,1688 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ADDRESS_COMPARE	src/hash.h	229;"	d
+ADDRESS_HASH_1	src/hash.h	227;"	d
+ADDRESS_HASH_2	src/hash.h	228;"	d
+ADD_FLAG	src/main.c	3495;"	d	file:
+ADD_FLAG	src/main.c	3587;"	d	file:
+ADD_SIG	src/main.c	1253;"	d	file:
+ALL_SET	src/makeint.h	407;"	d
+ANSI_STRING	src/makeint.h	237;"	d
+ANSI_STRING	src/makeint.h	241;"	d
+ANSI_STRING	src/makeint.h	276;"	d
+ANY_SET	src/makeint.h	405;"	d
+ARFMAG	src/arscan.c	342;"	d	file:
+ARMAG	src/arscan.c	340;"	d	file:
+ARMAG	src/arscan.c	361;"	d	file:
+ARNAME_MAX	src/arscan.c	558;"	d	file:
+AR_HDR_SIZE	src/arscan.c	376;"	d	file:
+AR_MEMHDR_SZ	src/arscan.c	585;"	d	file:
+ATTRIBUTE	src/makeint.h	219;"	d
+ATTRIBUTE	src/makeint.h	221;"	d
+Amiga_version	src/amiga.c	/^static const char Amiga_version[] = "$VER: Make 3.74.3 (12.05.96) \\n"$/;"	v	file:
+BUFSIZE	src/strcache.c	45;"	d	file:
+CACHE_BUFFER_ALLOC	src/strcache.c	42;"	d	file:
+CACHE_BUFFER_BASE	src/strcache.c	41;"	d	file:
+CACHE_BUFFER_OFFSET	src/strcache.c	43;"	d	file:
+CACHE_BUFFER_SIZE	src/strcache.c	44;"	d	file:
+CALLOC	src/hash.c	21;"	d	file:
+CHAR_BIT	src/makeint.h	163;"	d
+CHAR_MAX	src/makeint.h	181;"	d
+CHILDBASE	src/job.h	/^    CHILDBASE;$/;"	m	struct:child
+CHILDBASE	src/job.h	/^    CHILDBASE;$/;"	m	struct:childbase
+CHILDBASE	src/job.h	31;"	d
+CLONE	src/hash.c	24;"	d	file:
+COMMANDS_NOERROR	src/commands.h	35;"	d
+COMMANDS_RECURSE	src/commands.h	33;"	d
+COMMANDS_SILENT	src/commands.h	34;"	d
+CSTRLEN	src/makeint.h	501;"	d
+C_FACILITY_NO	src/job.c	71;"	d	file:
+C_FACILITY_NO	src/vms_exit.c	35;"	d	file:
+DB	src/debug.h	41;"	d
+DBF	src/debug.h	37;"	d
+DBG	src/makeint.h	672;"	d
+DBG	src/makeint.h	677;"	d
+DBS	src/debug.h	34;"	d
+DB_ALL	src/debug.h	26;"	d
+DB_BASIC	src/debug.h	18;"	d
+DB_IMPLICIT	src/debug.h	21;"	d
+DB_JOBS	src/debug.h	20;"	d
+DB_MAKEFILES	src/debug.h	24;"	d
+DB_NONE	src/debug.h	17;"	d
+DB_PRINT	src/debug.h	22;"	d
+DB_VERBOSE	src/debug.h	19;"	d
+DB_WHY	src/debug.h	23;"	d
+DEFAULT_TMPDIR	src/makeint.h	520;"	d
+DEFAULT_TMPDIR	src/makeint.h	522;"	d
+DEFAULT_TMPDIR	src/makeint.h	524;"	d
+DEFAULT_TMPFILE	src/misc.c	576;"	d	file:
+DEFAULT_TMPFILE	src/misc.c	578;"	d	file:
+DEFAULT_TTYNAME	src/makeint.h	512;"	d
+DEFINE_VARIABLE	src/commands.c	148;"	d	file:
+DEFINE_VARIABLE	src/commands.c	316;"	d	file:
+DEP	src/dep.h	46;"	d
+DIR	src/vmsdir.h	/^typedef struct DIR$/;"	s
+DIR	src/vmsdir.h	/^} DIR;$/;"	t	typeref:struct:DIR
+DIRECTORY_BUCKETS	src/dir.c	245;"	d	file:
+DIRFILE_BUCKETS	src/dir.c	457;"	d	file:
+DIRSIZ	src/vmsdir.h	40;"	d
+DIRSIZ	src/vmsdir.h	41;"	d
+EINTRLOOP	src/makeint.h	874;"	d
+ELIDE_CODE	src/getopt.c	55;"	d	file:
+ELIDE_CODE	src/getopt1.c	47;"	d	file:
+END_OF_TOKEN	src/makeint.h	471;"	d
+ENULLLOOP	src/makeint.h	883;"	d
+ENUM_BITFIELD	src/makeint.h	345;"	d
+ENUM_BITFIELD	src/makeint.h	347;"	d
+EVAL_STRING	src/guile.c	34;"	d	file:
+EVAL_STRING	src/guile.c	37;"	d	file:
+EXIT_FAILURE	src/makeint.h	264;"	d
+EXIT_SUCCESS	src/makeint.h	261;"	d
+EXPANSION_INCREMENT	src/file.c	1222;"	d	file:
+EXPANSION_INCREMENT	src/variable.c	379;"	d	file:
+EXP_COUNT_BITS	src/variable.h	59;"	d
+EXP_COUNT_MAX	src/variable.h	60;"	d
+EXTRACMD	src/read.c	1552;"	d	file:
+EXTRATEXT	src/read.c	1551;"	d	file:
+FAKE_DIR_ENTRY	src/dir.c	57;"	d	file:
+FAKE_DIR_ENTRY	src/dir.c	60;"	d	file:
+FATAL_SIG	src/main.c	1263;"	d	file:
+FATAL_SIG	src/main.c	1298;"	d	file:
+FAT_ADJ_OFFSET	src/remake.c	1476;"	d	file:
+FD_CLOEXEC	src/posixos.c	800;"	d	file:
+FD_NOT_EMPTY	src/output.c	268;"	d	file:
+FD_OK	src/posixos.c	23;"	d	file:
+FD_OK	src/posixos.c	33;"	d	file:
+FD_STDERR	src/output.h	29;"	d
+FD_STDIN	src/output.h	27;"	d
+FD_STDOUT	src/output.h	28;"	d
+FIFO_PREFIX	src/posixos.c	78;"	d	file:
+FILE_LIST_SEPARATOR	src/commands.c	30;"	d	file:
+FILE_LIST_SEPARATOR	src/commands.c	32;"	d	file:
+FILE_TIMESTAMP	src/makeint.h	303;"	d
+FILE_TIMESTAMPS_PER_S	src/filedef.h	155;"	d
+FILE_TIMESTAMP_LO_BITS	src/filedef.h	156;"	d
+FILE_TIMESTAMP_NS	src/filedef.h	160;"	d
+FILE_TIMESTAMP_PRINT_LEN_BOUND	src/filedef.h	176;"	d
+FILE_TIMESTAMP_S	src/filedef.h	158;"	d
+FILE_TIMESTAMP_STAT_MODTIME	src/filedef.h	143;"	d
+FILE_TIMESTAMP_STAT_MODTIME	src/filedef.h	146;"	d
+FLOOR_LOG2_SECONDS_PER_YEAR	src/filedef.h	175;"	d
+FNAME_PREFIX	src/posixos.c	156;"	d	file:
+FREE_ARGV	src/job.c	1179;"	d	file:
+FREE_ARGV	src/job.c	1610;"	d	file:
+FS_FAT	src/dir.c	261;"	d	file:
+FS_NTFS	src/dir.c	262;"	d	file:
+FS_UNKNOWN	src/dir.c	263;"	d	file:
+FT_ENTRY	src/function.c	2489;"	d	file:
+FUNCTION_TABLE_ENTRIES	src/function.c	2539;"	d	file:
+GCC_IS_NATIVE	src/default.c	31;"	d	file:
+GETOPT_INTERFACE_VERSION	src/getopt.c	51;"	d	file:
+GETOPT_INTERFACE_VERSION	src/getopt1.c	43;"	d	file:
+GET_PATH_MAX	src/makeint.h	153;"	d
+GET_PATH_MAX	src/makeint.h	157;"	d
+GMK_BUILDING_MAKE	src/makeint.h	48;"	d
+GMK_EXPORT	src/gnumake.h	33;"	d
+GMK_EXPORT	src/gnumake.h	35;"	d
+GMK_EXPORT	src/gnumake.h	38;"	d
+GMK_FUNC_DEFAULT	src/gnumake.h	76;"	d
+GMK_FUNC_NOEXPAND	src/gnumake.h	77;"	d
+GNUMAKEFLAGS_NAME	src/makeint.h	743;"	d
+GSUBR_TYPE	src/guile.c	32;"	d	file:
+GSUBR_TYPE	src/guile.c	36;"	d	file:
+HASH_VACANT	src/hash.h	80;"	d
+HAS_DRIVESPEC	src/makeint.h	480;"	d
+HAS_DRIVESPEC	src/makeint.h	484;"	d
+HAVE_CONFIG_H	src/mkcustom.h	24;"	d
+HAVE_CONFIG_H	src/mkcustom.h	25;"	d
+HAVE_PSELECT	src/posixos.c	29;"	d	file:
+HAVE_WAIT_NOHANG	src/main.c	89;"	d	file:
+INCLUDEDIR	src/read.c	108;"	d	file:
+INCL_DOS	src/misc.c	32;"	d	file:
+INIT_DSC_CSTRING	src/vmsify.c	51;"	d	file:
+INIT_DSC_S	src/vmsify.c	40;"	d	file:
+INTEGER_COMPARE	src/hash.h	216;"	d
+INTEGER_HASH_1	src/hash.h	198;"	d
+INTEGER_HASH_2	src/hash.h	207;"	d
+INTEGER_TYPE_MAXIMUM	src/makeint.h	178;"	d
+INTEGER_TYPE_MINIMUM	src/makeint.h	176;"	d
+INTEGER_TYPE_SIGNED	src/makeint.h	172;"	d
+INTSTR_LENGTH	src/makeint.h	510;"	d
+INVALID_JOB_SLOTS	src/main.c	222;"	d	file:
+IO_COMBINED_OUTERR	src/os.h	18;"	d
+IO_STDERR_OK	src/os.h	21;"	d
+IO_STDIN_OK	src/os.h	19;"	d
+IO_STDOUT_OK	src/os.h	20;"	d
+IO_UNKNOWN	src/os.h	17;"	d
+ISBLANK	src/makeint.h	467;"	d
+ISDB	src/debug.h	30;"	d
+ISDIGIT	src/makeint.h	323;"	d
+ISDIRSEP	src/makeint.h	476;"	d
+ISSPACE	src/makeint.h	469;"	d
+ISTRING_COMPARE	src/hash.h	176;"	d
+ISTRING_COMPARE	src/hash.h	191;"	d
+ISTRING_HASH_1	src/hash.h	154;"	d
+ISTRING_HASH_1	src/hash.h	185;"	d
+ISTRING_HASH_2	src/hash.h	165;"	d
+ISTRING_HASH_2	src/hash.h	188;"	d
+IS_ABSOLUTE	src/function.c	2138;"	d	file:
+IS_ABSOLUTE	src/function.c	2140;"	d	file:
+IS_ABSOLUTE	src/function.c	2144;"	d	file:
+JHASH_INITVAL	src/hash.c	359;"	d	file:
+JOBSERVER_AUTH_OPT	src/makeint.h	761;"	d
+JOBSERVER_USE_FIFO	src/makeint.h	757;"	d
+LIBDIR	src/remake.c	1701;"	d	file:
+LOAD_WEIGHT_A	src/job.c	2049;"	d	file:
+LOAD_WEIGHT_B	src/job.c	2050;"	d	file:
+LOCALEDIR	src/makeint.h	395;"	d
+MAKECMP	src/dir.c	348;"	d	file:
+MAKEFLAGS_NAME	src/makeint.h	744;"	d
+MAKELEVEL_LENGTH	src/variable.h	243;"	d
+MAKELEVEL_NAME	src/variable.h	242;"	d
+MAKE_FAILURE	src/makeint.h	827;"	d
+MAKE_HOST	src/version.c	23;"	d	file:
+MAKE_SUCCESS	src/makeint.h	825;"	d
+MAKE_TROUBLE	src/makeint.h	826;"	d
+MALLOC	src/hash.c	22;"	d	file:
+MAP_BLANK	src/makeint.h	411;"	d
+MAP_COLON	src/makeint.h	416;"	d
+MAP_COMMA	src/makeint.h	420;"	d
+MAP_COMMENT	src/makeint.h	413;"	d
+MAP_DIRSEP	src/makeint.h	427;"	d
+MAP_DOT	src/makeint.h	419;"	d
+MAP_EQUALS	src/makeint.h	415;"	d
+MAP_NEWLINE	src/makeint.h	412;"	d
+MAP_NUL	src/makeint.h	410;"	d
+MAP_PATHSEP	src/makeint.h	444;"	d
+MAP_PATHSEP	src/makeint.h	448;"	d
+MAP_PATHSEP	src/makeint.h	451;"	d
+MAP_PATHSEP	src/makeint.h	454;"	d
+MAP_PATHSEP	src/makeint.h	456;"	d
+MAP_PATHSEP	src/makeint.h	458;"	d
+MAP_PIPE	src/makeint.h	418;"	d
+MAP_SEMI	src/makeint.h	414;"	d
+MAP_SPACE	src/makeint.h	435;"	d
+MAP_USERFUNC	src/makeint.h	423;"	d
+MAP_VARIABLE	src/makeint.h	425;"	d
+MAP_VARSEP	src/makeint.h	417;"	d
+MAP_VMSCOMMA	src/makeint.h	430;"	d
+MAP_VMSCOMMA	src/makeint.h	432;"	d
+MAX	src/makeint.h	822;"	d
+MAXNAMLEN	src/vmsdir.h	22;"	d
+MAX_DCL_SYMBOL_LEN	src/vms_export_symbol.c	66;"	d	file:
+MAX_DCL_SYMBOL_VALUE	src/vms_export_symbol.c	68;"	d	file:
+MAX_DCL_SYMBOL_VALUE	src/vms_export_symbol.c	70;"	d	file:
+MAX_EXPECTED_EXIT_CODE	src/vms_exit.c	43;"	d	file:
+MAX_OPEN_DIRECTORIES	src/dir.c	238;"	d	file:
+MERGE	src/file.c	319;"	d	file:
+MERGE	src/file.c	334;"	d	file:
+MIN	src/makeint.h	819;"	d
+MK_OS_CYGWIN	src/makeint.h	90;"	d
+MK_OS_HURD	src/makeint.h	87;"	d
+MK_OS_ZOS	src/makeint.h	93;"	d
+MK_PRI64_PREFIX	src/makeint.h	290;"	d
+MK_PRI64_PREFIX	src/makeint.h	292;"	d
+MTIME	src/remake.c	122;"	d	file:
+MUTEX_PREFIX	src/posixos.c	642;"	d	file:
+M_XENIX	src/arscan.c	296;"	d	file:
+MyExecute	src/amiga.c	/^MyExecute (char **argv)$/;"	f
+NAMESEQ	src/dep.h	20;"	d
+NAMLEN	src/dir.c	25;"	d	file:
+NAMLEN	src/dir.c	32;"	d	file:
+NAMLEN	src/dir.c	49;"	d	file:
+NAMLEN	src/dir.c	50;"	d	file:
+NDEBUG	src/makeint.h	40;"	d
+NEED_GET_PATH_MAX	src/makeint.h	156;"	d
+NEWELT	src/read.c	3195;"	d	file:
+NEW_MTIME	src/filedef.h	223;"	d
+NEXT_TOKEN	src/makeint.h	473;"	d
+NILF	src/makeint.h	498;"	d
+NONEXISTENT_MTIME	src/filedef.h	203;"	d
+NONE_SET	src/makeint.h	406;"	d
+NONOPTION_P	src/getopt.c	521;"	d	file:
+NORETURN	src/makeint.h	232;"	d
+NSIG	src/signame.c	32;"	d	file:
+NSIG	src/signame.c	34;"	d	file:
+NULL	src/getopt1.c	61;"	d	file:
+NULL	src/vmsdir.h	66;"	d
+N_	src/makeint.h	361;"	d
+N_CLOSED	src/vmsify.c	/^enum namestate { N_START, N_DEVICE, N_OPEN, N_DOT, N_CLOSED, N_DONE };$/;"	e	enum:namestate	file:
+N_DEVICE	src/vmsify.c	/^enum namestate { N_START, N_DEVICE, N_OPEN, N_DOT, N_CLOSED, N_DONE };$/;"	e	enum:namestate	file:
+N_DONE	src/vmsify.c	/^enum namestate { N_START, N_DEVICE, N_OPEN, N_DOT, N_CLOSED, N_DONE };$/;"	e	enum:namestate	file:
+N_DOT	src/vmsify.c	/^enum namestate { N_START, N_DEVICE, N_OPEN, N_DOT, N_CLOSED, N_DONE };$/;"	e	enum:namestate	file:
+N_OPEN	src/vmsify.c	/^enum namestate { N_START, N_DEVICE, N_OPEN, N_DOT, N_CLOSED, N_DONE };$/;"	e	enum:namestate	file:
+N_START	src/vmsify.c	/^enum namestate { N_START, N_DEVICE, N_OPEN, N_DOT, N_CLOSED, N_DONE };$/;"	e	enum:namestate	file:
+O	src/makeint.h	551;"	d
+OLD_MTIME	src/filedef.h	207;"	d
+ON	src/makeint.h	557;"	d
+ONN	src/makeint.h	558;"	d
+ONS	src/makeint.h	562;"	d
+ORDINARY_MTIME_MAX	src/filedef.h	211;"	d
+ORDINARY_MTIME_MIN	src/filedef.h	210;"	d
+OS	src/makeint.h	552;"	d
+OSN	src/makeint.h	560;"	d
+OSS	src/makeint.h	553;"	d
+OSSS	src/makeint.h	555;"	d
+OUTPUT_ISSET	src/output.c	48;"	d	file:
+OUTPUT_IS_TRACED	src/output.h	35;"	d
+OUTPUT_NONE	src/output.c	46;"	d	file:
+OUTPUT_SET	src/output.h	31;"	d
+OUTPUT_SYNC_LINE	src/makeint.h	717;"	d
+OUTPUT_SYNC_NONE	src/makeint.h	716;"	d
+OUTPUT_SYNC_RECURSE	src/makeint.h	719;"	d
+OUTPUT_SYNC_TARGET	src/makeint.h	718;"	d
+OUTPUT_TRACED	src/output.h	34;"	d
+OUTPUT_UNSET	src/output.h	32;"	d
+PARSEFS_EXISTS	src/dep.h	82;"	d
+PARSEFS_NOAR	src/dep.h	80;"	d
+PARSEFS_NOCACHE	src/dep.h	83;"	d
+PARSEFS_NOGLOB	src/dep.h	81;"	d
+PARSEFS_NONE	src/dep.h	78;"	d
+PARSEFS_NOSTRIP	src/dep.h	79;"	d
+PARSEFS_ONEWORD	src/dep.h	84;"	d
+PARSEFS_WAIT	src/dep.h	85;"	d
+PARSE_FILE_SEQ	src/dep.h	87;"	d
+PARSE_SIMPLE_SEQ	src/dep.h	89;"	d
+PATH_MAX	src/makeint.h	144;"	d
+PATH_MAX	src/makeint.h	148;"	d
+PATH_SEPARATOR_CHAR	src/makeint.h	442;"	d
+PATH_SEPARATOR_CHAR	src/makeint.h	443;"	d
+PATH_SEPARATOR_CHAR	src/makeint.h	447;"	d
+PATH_SEPARATOR_CHAR	src/makeint.h	450;"	d
+PATH_SIZE	src/amiga.c	89;"	d	file:
+PATH_VAR	src/makeint.h	154;"	d
+PATH_VAR	src/makeint.h	158;"	d
+PERFILE_VARIABLE_BUCKETS	src/variable.c	173;"	d	file:
+PERMUTE	src/getopt.c	/^  REQUIRE_ORDER, PERMUTE, RETURN_IN_ORDER$/;"	e	enum:__anon3	file:
+PORTAR	src/arscan.c	305;"	d	file:
+PORTAR	src/arscan.c	310;"	d	file:
+PORTAR	src/arscan.c	312;"	d	file:
+POSIX	src/makeint.h	110;"	d
+POSIX	src/makeint.h	116;"	d
+POSIX	src/makeint.h	120;"	d
+PRIdMAX	src/makeint.h	295;"	d
+PRIuMAX	src/makeint.h	298;"	d
+QUAD	src/misc.c	922;"	d	file:
+REALLOC	src/hash.c	23;"	d	file:
+REAL_DIR_ENTRY	src/dir.c	56;"	d	file:
+REAL_DIR_ENTRY	src/dir.c	59;"	d	file:
+REAP_MORE	src/job.c	642;"	d	file:
+RECIPEPREFIX_DEFAULT	src/makeint.h	748;"	d
+RECIPEPREFIX_NAME	src/makeint.h	747;"	d
+REQUIRE_ORDER	src/getopt.c	/^  REQUIRE_ORDER, PERMUTE, RETURN_IN_ORDER$/;"	e	enum:__anon3	file:
+RETURN_IN_ORDER	src/getopt.c	/^  REQUIRE_ORDER, PERMUTE, RETURN_IN_ORDER$/;"	e	enum:__anon3	file:
+RM_DONTCARE	src/dep.h	36;"	d
+RM_INCLUDED	src/dep.h	35;"	d
+RM_NOFLAG	src/dep.h	33;"	d
+RM_NO_DEFAULT_GOAL	src/dep.h	34;"	d
+RM_NO_TILDE	src/dep.h	37;"	d
+ROOT_LEN	src/function.c	2142;"	d	file:
+ROOT_LEN	src/function.c	2145;"	d	file:
+RTLD_GLOBAL	src/load.c	35;"	d	file:
+SARMAG	src/arscan.c	341;"	d	file:
+SARMAG	src/arscan.c	362;"	d	file:
+SA_RESTART	src/makeint.h	128;"	d
+SCNdMAX	src/makeint.h	301;"	d
+SETMSG	src/misc.c	932;"	d	file:
+SET_STACK_SIZE	src/makeint.h	489;"	d
+SHUFFLE_PREFIX	src/job.c	571;"	d	file:
+SHUFFLE_PREFIX	src/job.c	576;"	d	file:
+SI	src/dep.h	112;"	d
+SIG_TABLE_SIZE	src/signame.c	47;"	d	file:
+SIZE_MAX	src/variable.h	125;"	d
+SMALL_SCOPE_VARIABLE_BUCKETS	src/variable.c	176;"	d	file:
+SPIN	src/makeint.h	670;"	d
+SPIN	src/makeint.h	675;"	d
+STAT	src/remake.c	42;"	d	file:
+STAT	src/remake.c	44;"	d	file:
+STOP_SET	src/makeint.h	464;"	d
+STREAM_OK	src/posixos.c	44;"	d	file:
+STRING_COMPARE	src/hash.h	110;"	d
+STRING_HASH_1	src/hash.h	88;"	d
+STRING_HASH_2	src/hash.h	101;"	d
+STRING_N_COMPARE	src/hash.h	143;"	d
+STRING_N_HASH_1	src/hash.h	118;"	d
+STRING_N_HASH_2	src/hash.h	132;"	d
+STRING_SIZE_TUPLE	src/makeint.h	504;"	d
+SWAP_FLAGS	src/getopt.c	271;"	d	file:
+SWAP_FLAGS	src/getopt.c	279;"	d	file:
+SYMBOL_EXTENSION	src/load.c	27;"	d	file:
+S_	src/makeint.h	362;"	d
+S_ISDIR	src/makeint.h	189;"	d
+S_ISDIR	src/makeint.h	197;"	d
+S_ISLNK	src/remake.c	1615;"	d	file:
+S_ISREG	src/makeint.h	186;"	d
+S_ISREG	src/makeint.h	194;"	d
+TEMP_STDIN_OPT	src/main.c	445;"	d	file:
+TMP_EXTRAS	src/misc.c	589;"	d	file:
+TOCHAR	src/arscan.c	353;"	d	file:
+TOCHAR	src/arscan.c	371;"	d	file:
+TOUCH_ERROR	src/remake.c	1220;"	d	file:
+TTYNAME	src/makeint.h	514;"	d
+TTYNAME	src/makeint.h	516;"	d
+UCHAR_MAX	src/main.c	601;"	d	file:
+UINTSZ	src/hash.c	413;"	d	file:
+UNKNOWN_MTIME	src/filedef.h	200;"	d
+UNSIGNED	src/misc.c	919;"	d	file:
+UNUSED	src/makeint.h	231;"	d
+USE_NUMBER_GROUPING	src/misc.c	920;"	d	file:
+USE_WIDE_CHAR	src/misc.c	921;"	d	file:
+USHRT_MAX	src/makeint.h	167;"	d
+VARIABLE_BUCKETS	src/variable.c	170;"	d	file:
+VARIABLE_BUFFER_ZONE	src/expand.c	44;"	d	file:
+VERIFY_CACHED	src/file.c	1189;"	d	file:
+VMS	src/makeint.h	101;"	d
+VMSCHILD	src/job.h	22;"	d
+VMSCHILD	src/job.h	28;"	d
+VMSDIR_H	src/vmsdir.h	18;"	d
+VMSMAXPATHLEN	src/vmsify.c	225;"	d	file:
+VMS_INO_T	src/dir.c	170;"	d	file:
+VMS_POSIX_EXIT_MASK	src/job.c	74;"	d	file:
+VMS_function	src/arscan.c	/^static intmax_t (*VMS_function) ();$/;"	v	file:
+VMS_function_ret	src/arscan.c	/^static intmax_t VMS_function_ret;$/;"	v	file:
+VMS_get_member_info	src/arscan.c	/^VMS_get_member_info(struct dsc$descriptor_s *module, unsigned long *rfa)$/;"	f	file:
+VMS_lib_idx	src/arscan.c	/^static void *VMS_lib_idx;$/;"	v	file:
+VMS_saved_arg	src/arscan.c	/^static const void *VMS_saved_arg;$/;"	v	file:
+WAIT_NOHANG	src/job.c	116;"	d	file:
+WAIT_NOHANG	src/job.c	132;"	d	file:
+WAIT_NOHANG	src/job.c	138;"	d	file:
+WAIT_T	src/job.c	153;"	d	file:
+WAIT_T	src/job.c	173;"	d	file:
+WCOREDUMP	src/job.c	159;"	d	file:
+WCOREDUMP	src/job.c	178;"	d	file:
+WEXITSTATUS	src/job.c	162;"	d	file:
+WEXITSTATUS	src/job.c	181;"	d	file:
+WIFEXITED	src/job.c	168;"	d	file:
+WIFEXITED	src/job.c	187;"	d	file:
+WIFSIGNALED	src/job.c	165;"	d	file:
+WIFSIGNALED	src/job.c	184;"	d	file:
+WIN32_LEAN_AND_MEAN	src/makeint.h	400;"	d
+WTERMSIG	src/job.c	156;"	d	file:
+WTERMSIG	src/job.c	175;"	d	file:
+_	src/getopt.c	81;"	d	file:
+_	src/makeint.h	360;"	d
+_GETOPT_H	src/getopt.h	20;"	d
+_GNUMAKE_H_	src/gnumake.h	20;"	d
+_GNU_SOURCE	src/mkcustom.h	30;"	d
+_LIBGETTEXT_H	src/gettext.h	18;"	d
+_NO_PROTO	src/getopt.c	26;"	d	file:
+_S_ISDIR	src/makeint.h	380;"	d
+_USE_LFN	src/dir.c	69;"	d	file:
+__AR_BIG__	src/arscan.c	330;"	d	file:
+__AR_SMALL__	src/arscan.c	329;"	d	file:
+__NO_STRING_INLINES	src/makeint.h	60;"	d
+__P	src/hash.h	25;"	d
+__P	src/hash.h	26;"	d
+__P	src/hash.h	29;"	d
+__P	src/hash.h	30;"	d
+__format__	src/makeint.h	227;"	d
+__getopt_initialized	src/getopt.c	/^int __getopt_initialized = 0;$/;"	v
+__printf__	src/makeint.h	228;"	d
+__stack	src/main.c	/^int __stack = 20000; \/* Make sure we have 20K of stack space *\/$/;"	v
+_defn	src/rule.h	/^    char *_defn;                \/* Definition of the rule. *\/$/;"	m	struct:rule
+_exit	src/makeint.h	774;"	d
+_getopt_initialize	src/getopt.c	/^_getopt_initialize (int argc, char *const *argv, const char *optstring)$/;"	f	file:
+_getopt_internal	src/getopt.c	/^_getopt_internal (int argc, char *const *argv, const char *optstring,$/;"	f
+_hash_h_	src/hash.h	18;"	d
+_is_unixy_shell	src/job.c	/^_is_unixy_shell (const char *path)$/;"	f
+_outputs	src/output.c	/^_outputs (struct output *out, int is_err, const char *msg)$/;"	f	file:
+a_pattern	src/function.c	/^struct a_pattern$/;"	s	file:
+a_word	src/function.c	/^struct a_word$/;"	s	file:
+a_word_hash_1	src/function.c	/^a_word_hash_1 (const void *key)$/;"	f	file:
+a_word_hash_2	src/function.c	/^a_word_hash_2 (const void *key)$/;"	f	file:
+a_word_hash_cmp	src/function.c	/^a_word_hash_cmp (const void *x, const void *y)$/;"	f	file:
+abbrev	src/signame.c	/^    const char *abbrev;$/;"	m	struct:__anon6	file:
+abspath	src/function.c	/^abspath (const char *name, char *apath)$/;"	f	file:
+add_hash	src/strcache.c	/^add_hash (const char *str, size_t len)$/;"	f	file:
+add_hugestring	src/strcache.c	/^add_hugestring (const char *str, size_t len)$/;"	f	file:
+add_string	src/strcache.c	/^add_string (const char *str, sc_buflen_t len)$/;"	f	file:
+adds_command	src/function.c	/^    unsigned int adds_command:1;$/;"	m	struct:function_table_entry	file:
+all_secondary	src/file.c	/^static int all_secondary = 0;$/;"	v	file:
+alloc_dep	src/dep.h	/^SI struct dep *alloc_dep (void)       { return alloc_seq_elt (struct dep); }$/;"	f
+alloc_dep	src/dep.h	124;"	d
+alloc_fn	src/function.c	/^    unsigned int alloc_fn:1;$/;"	m	struct:function_table_entry	file:
+alloc_func_ptr	src/function.c	/^      gmk_func_ptr alloc_func_ptr;$/;"	m	union:function_table_entry::__anon2	file:
+alloc_goaldep	src/dep.h	/^SI struct goaldep *alloc_goaldep (void) { return alloc_seq_elt (struct goaldep); }$/;"	f
+alloc_goaldep	src/dep.h	125;"	d
+alloc_ns	src/dep.h	/^SI struct nameseq *alloc_ns (void)    { return alloc_seq_elt (struct nameseq); }$/;"	f
+alloc_ns	src/dep.h	123;"	d
+alloc_seq_elt	src/dep.h	107;"	d
+allocated	src/read.c	/^    unsigned int allocated;     \/* Elts allocated in following arrays.  *\/$/;"	m	struct:conditionals	file:
+allocated_variable_append	src/expand.c	/^allocated_variable_append (const struct variable *v)$/;"	f	file:
+allocated_variable_expand	src/variable.h	132;"	d
+allocated_variable_expand_for_file	src/expand.c	/^allocated_variable_expand_for_file (const char *line, struct file *file)$/;"	f
+alpha_compare	src/misc.c	/^alpha_compare (const void *v1, const void *v2)$/;"	f
+also_make	src/filedef.h	/^    struct dep *also_make;      \/* Targets that are made by making this.  *\/$/;"	m	struct:file	typeref:struct:file::dep
+always_make_flag	src/main.c	/^int always_make_flag = 0;$/;"	v
+always_make_set	src/main.c	/^static int always_make_set = 0;$/;"	v	file:
+amiga_batch_file	src/job.c	/^static int amiga_batch_file;$/;"	v	file:
+amiga_bname	src/job.c	/^static char amiga_bname[32];$/;"	v	file:
+amiga_pid	src/job.c	/^static int amiga_pid = 123;$/;"	v	file:
+amiga_status	src/job.c	/^static int amiga_status;$/;"	v	file:
+any_recurse	src/commands.h	/^    unsigned int any_recurse:1; \/* Nonzero if any 'lines_flags' elt has *\/$/;"	m	struct:commands
+append	src/variable.h	/^    unsigned int append:1;      \/* Nonzero if an appending target-specific$/;"	m	struct:variable
+ar_date	src/arscan.c	/^    char ar_date[12];           \/* File date, decimal seconds since Epoch.  *\/$/;"	m	struct:ar_hdr	file:
+ar_date	src/arscan.c	367;"	d	file:
+ar_fmag	src/arscan.c	/^    char ar_fmag[2];            \/* Always contains ARFMAG.  *\/$/;"	m	struct:ar_hdr	file:
+ar_gid	src/arscan.c	/^    char ar_uid[6], ar_gid[6];  \/* User and group IDs, in ASCII decimal.  *\/$/;"	m	struct:ar_hdr	file:
+ar_gid	src/arscan.c	369;"	d	file:
+ar_glob	src/ar.c	/^ar_glob (const char *arname, const char *member_pattern, size_t size)$/;"	f
+ar_glob_match	src/ar.c	/^ar_glob_match (int desc UNUSED, const char *mem, int truncated UNUSED,$/;"	f	file:
+ar_glob_pattern_p	src/ar.c	/^ar_glob_pattern_p (const char *pattern, int quote)$/;"	f	file:
+ar_glob_state	src/ar.c	/^struct ar_glob_state$/;"	s	file:
+ar_hdr	src/arscan.c	/^struct ar_hdr$/;"	s	file:
+ar_hdr	src/arscan.c	363;"	d	file:
+ar_member_date	src/ar.c	/^ar_member_date (const char *name)$/;"	f
+ar_member_date_1	src/ar.c	/^ar_member_date_1 (int desc UNUSED, const char *mem, int truncated,$/;"	f	file:
+ar_member_func_t	src/makeint.h	/^typedef intmax_t (*ar_member_func_t) (int desc, const char *mem, int truncated,$/;"	t
+ar_member_pos	src/arscan.c	/^ar_member_pos (int desc UNUSED, const char *mem, int truncated,$/;"	f	file:
+ar_member_touch	src/arscan.c	/^ar_member_touch (const char *arname, const char *memname)$/;"	f
+ar_mode	src/arscan.c	/^    char ar_mode[8];            \/* File mode, in ASCII octal.  *\/$/;"	m	struct:ar_hdr	file:
+ar_mode	src/arscan.c	365;"	d	file:
+ar_name	src/ar.c	/^ar_name (const char *name)$/;"	f
+ar_name	src/arscan.c	/^    char ar_name[16];           \/* Member file name, sometimes \/ terminated. *\/$/;"	m	struct:ar_hdr	file:
+ar_name	src/arscan.c	364;"	d	file:
+ar_name_equal	src/arscan.c	/^ar_name_equal (const char *name, const char *mem, int truncated)$/;"	f
+ar_parse_name	src/ar.c	/^ar_parse_name (const char *name, char **arname_p, char **memname_p)$/;"	f
+ar_scan	src/arscan.c	/^ar_scan (const char *archive, ar_member_func_t function, const void *arg)$/;"	f
+ar_scan	src/arscan.c	/^ar_scan (const char *archive, ar_member_func_t function, const void *varg)$/;"	f
+ar_size	src/arscan.c	/^    char ar_size[10];           \/* File size, in ASCII decimal.  *\/$/;"	m	struct:ar_hdr	file:
+ar_size	src/arscan.c	366;"	d	file:
+ar_touch	src/ar.c	/^ar_touch (const char *name)$/;"	f
+ar_uid	src/arscan.c	/^    char ar_uid[6], ar_gid[6];  \/* User and group IDs, in ASCII decimal.  *\/$/;"	m	struct:ar_hdr	file:
+ar_uid	src/arscan.c	368;"	d	file:
+arg_job_slots	src/main.c	/^static int arg_job_slots = INVALID_JOB_SLOTS;$/;"	v	file:
+arname	src/ar.c	/^    const char *arname;$/;"	m	struct:ar_glob_state	file:
+assign_v	src/read.c	/^    unsigned int assign_v:1;$/;"	m	struct:vmodifiers	file:
+assign_variable_definition	src/variable.c	/^assign_variable_definition (struct variable *v, const char *line)$/;"	f
+batch_mode_shell	src/job.c	/^int batch_mode_shell = 0;$/;"	v
+batch_mode_shell	src/job.c	/^int batch_mode_shell = 1;$/;"	v
+bind_textdomain_codeset	src/gettext.h	44;"	d
+bindtextdomain	src/gettext.h	43;"	d
+block_remote_children	src/remote-stub.c	/^block_remote_children (void)$/;"	f
+block_sigs	src/job.c	/^block_sigs ()$/;"	f	file:
+block_sigs	src/job.c	518;"	d	file:
+bsd_signal	src/main.c	/^bsd_signal (int sig, bsd_signal_ret_t func)$/;"	f	file:
+bsd_signal	src/main.c	621;"	d	file:
+bsd_signal_ret_t	src/main.c	/^typedef void (*bsd_signal_ret_t) (int);$/;"	t	file:
+bufadr	src/vms_export_symbol.c	/^  void * bufadr;$/;"	m	struct:item_list_3	file:
+bufadr	src/vms_progname.c	/^  void * bufadr;$/;"	m	struct:item_list_3	file:
+buffer	src/output.c	/^    char *buffer;$/;"	m	struct:fmtstring	file:
+buffer	src/read.c	/^    char *buffer;       \/* Start of the current line in the buffer.  *\/$/;"	m	struct:ebuffer	file:
+buffer	src/strcache.c	/^  char buffer[1];           \/* The buffer comes after this.  *\/$/;"	m	struct:strcache	file:
+buffer	src/strcache.c	/^  char buffer[1];           \/* The string.  *\/$/;"	m	struct:hugestring	file:
+bufnext	src/read.c	/^    char *bufnext;      \/* Start of the next line in the buffer.  *\/$/;"	m	struct:ebuffer	file:
+bufstart	src/read.c	/^    char *bufstart;     \/* Start of the entire buffer.  *\/$/;"	m	struct:ebuffer	file:
+build_target_list	src/file.c	/^build_target_list (char *value)$/;"	f
+build_vpath_lists	src/vpath.c	/^build_vpath_lists (void)$/;"	f
+builtin	src/filedef.h	/^    unsigned int builtin:1;     \/* True if the file is a builtin rule. *\/$/;"	m	struct:file
+bytesfree	src/strcache.c	/^  sc_buflen_t bytesfree;    \/* Free space left in this buffer.  *\/$/;"	m	struct:strcache	file:
+c	src/main.c	/^    int c;                        \/* The switch character.  *\/$/;"	m	struct:command_switch	file:
+chain	src/ar.c	/^    struct nameseq *chain;$/;"	m	struct:ar_glob_state	typeref:struct:ar_glob_state::nameseq	file:
+chain	src/function.c	/^  struct a_word *chain;$/;"	m	struct:a_word	typeref:struct:a_word::a_word	file:
+chdir	src/makeint.h	846;"	d
+chdir	src/makeint.h	857;"	d
+check_also_make	src/remake.c	/^check_also_make (const struct file *file)$/;"	f	file:
+check_dep	src/remake.c	/^check_dep (struct file *file, unsigned int depth,$/;"	f	file:
+check_io_state	src/os.h	24;"	d
+check_io_state	src/posixos.c	/^check_io_state ()$/;"	f
+check_renamed	src/filedef.h	225;"	d
+check_special_file	src/read.c	/^check_special_file (struct file *file, const floc *flocp)$/;"	f	file:
+check_specials	src/read.c	/^check_specials (struct nameseq *files, int set_default)$/;"	f	file:
+check_symlink_flag	src/main.c	/^int check_symlink_flag = 0;$/;"	v
+checked_lastslash	src/implicit.c	/^    char checked_lastslash;$/;"	m	struct:tryrule	file:
+child	src/job.h	/^struct child$/;"	s
+child_error	src/job.c	/^child_error (struct child *child,$/;"	f	file:
+child_execute_job	src/job.c	/^child_execute_job (struct childbase *child, int good_stdin, char **argv)$/;"	f
+child_handler	src/job.c	/^child_handler (int sig UNUSED)$/;"	f
+childbase	src/job.h	/^struct childbase$/;"	s
+children	src/job.c	/^struct child *children = 0;$/;"	v	typeref:struct:child
+chkword	src/read.c	1535;"	d	file:
+chop_commands	src/commands.c	/^chop_commands (struct commands *cmds)$/;"	f
+clean_jobserver	src/main.c	/^clean_jobserver (int status)$/;"	f	file:
+clean_tmp	src/job.c	/^void clean_tmp (void)$/;"	f
+clear_dcl_symbol	src/vms_export_symbol.c	/^clear_dcl_symbol (struct dcl_symbol * symbol)$/;"	f	file:
+clear_directory_contents	src/dir.c	/^clear_directory_contents (struct directory_contents *dc)$/;"	f	file:
+clear_exported_symbols	src/vms_export_symbol.c	/^clear_exported_symbols (void)$/;"	f	file:
+clock_skew_detected	src/main.c	/^int clock_skew_detected;$/;"	v
+close_stdout	src/main.c	/^close_stdout (void)$/;"	f	file:
+closedir	src/vmsfunctions.c	/^closedir (DIR *dir)$/;"	f
+cmd_prefix	src/main.c	/^char cmd_prefix = '\\t';$/;"	v
+cmd_state	src/filedef.h	/^    enum cmd_state              \/* State of commands.  ORDER IS IMPORTANT!  *\/$/;"	g	struct:file
+cmd_target	src/filedef.h	/^    unsigned int cmd_target:1;  \/* Nonzero if file was given on cmd line.  *\/$/;"	m	struct:file
+cmds	src/filedef.h	/^    struct commands *cmds;      \/* Commands to execute for this target.  *\/$/;"	m	struct:file	typeref:struct:file::commands
+cmds	src/rule.h	/^    struct commands *cmds;      \/* Commands to execute.  *\/$/;"	m	struct:rule	typeref:struct:rule::commands
+code	src/vms_export_symbol.c	/^  unsigned short code;$/;"	m	struct:item_list_3	file:
+code	src/vms_progname.c	/^  unsigned short code;$/;"	m	struct:item_list_3	file:
+collapse_continuations	src/misc.c	/^collapse_continuations (char *line)$/;"	f
+command_count	src/main.c	/^unsigned long command_count = 1;$/;"	v
+command_flags	src/filedef.h	/^    int command_flags;          \/* Flags OR'd in for cmds; see commands.h.  *\/$/;"	m	struct:file
+command_line	src/job.h	/^    unsigned int  command_line; \/* Index into command_lines.  *\/$/;"	m	struct:child
+command_lines	src/commands.h	/^    char **command_lines;       \/* Commands chopped up into lines.  *\/$/;"	m	struct:commands
+command_lines	src/job.h	/^    char **command_lines;       \/* Array of variable-expanded cmd lines.  *\/$/;"	m	struct:child
+command_ptr	src/job.h	/^    char *command_ptr;          \/* Ptr into command_lines[command_line].  *\/$/;"	m	struct:child
+command_switch	src/main.c	/^struct command_switch$/;"	s	file:
+command_variable	src/main.c	/^struct command_variable$/;"	s	file:
+command_variables	src/main.c	/^static struct command_variable *command_variables;$/;"	v	typeref:struct:command_variable	file:
+commands	src/commands.h	/^    char *commands;             \/* Commands text.  *\/$/;"	m	struct:commands
+commands	src/commands.h	/^struct commands$/;"	s
+commands	src/rule.h	/^    const char *target, *dep, *commands;$/;"	m	struct:pspec
+commands_started	src/remake.c	/^unsigned int commands_started = 0;$/;"	v
+complain	src/remake.c	/^complain (struct file *file)$/;"	f	file:
+component	src/vms_progname.c	/^  char * component;$/;"	m	struct:filescan_itmlst_2	file:
+concat	src/misc.c	/^concat (unsigned int num, ...)$/;"	f
+conditional	src/variable.h	/^    unsigned int conditional:1; \/* Nonzero if set with a ?=. *\/$/;"	m	struct:variable
+conditional_line	src/read.c	/^conditional_line (char *line, size_t len, const floc *flocp)$/;"	f	file:
+conditionals	src/read.c	/^static struct conditionals *conditionals = &toplevel_conditionals;$/;"	v	typeref:struct:conditionals	file:
+conditionals	src/read.c	/^struct conditionals$/;"	s	file:
+config	src/shuffle.c	/^  } config = { sm_none, 0, NULL, "" };$/;"	v	typeref:struct:__anon5	file:
+considered	src/filedef.h	/^    unsigned int considered;    \/* equal to 'considered' if file has been$/;"	m	struct:file
+considered	src/remake.c	/^static unsigned int considered = 0;$/;"	v	file:
+const	src/getopt.c	37;"	d	file:
+const	src/getopt1.c	29;"	d	file:
+construct_command_argv	src/job.c	/^construct_command_argv (char *line, char **restp, struct file *file,$/;"	f
+construct_command_argv_internal	src/job.c	/^construct_command_argv_internal (char *line, char **restp, const char *shell,$/;"	f	file:
+construct_include_path	src/read.c	/^construct_include_path (const char **arg_dirs)$/;"	f
+construct_vpath_list	src/vpath.c	/^construct_vpath_list (char *pattern, char *dirpath)$/;"	f
+contents	src/dir.c	/^    struct directory_contents *contents; \/* The directory being read.  *\/$/;"	m	struct:dirstream	typeref:struct:dirstream::directory_contents	file:
+contents	src/dir.c	/^    struct directory_contents *contents;$/;"	m	struct:directory	typeref:struct:directory::directory_contents	file:
+convert_suffix_rule	src/rule.c	/^convert_suffix_rule (const char *target, const char *source,$/;"	f	file:
+convert_to_pattern	src/rule.c	/^convert_to_pattern (void)$/;"	f
+copy_dep_chain	src/misc.c	/^copy_dep_chain (const struct dep *d)$/;"	f
+copy_string	src/strcache.c	/^copy_string (struct strcache *sp, const char *str, sc_buflen_t len)$/;"	f	file:
+copyto	src/vmsify.c	/^copyto (char **to, const char **from, char upto, int as_dir)$/;"	f	file:
+count	src/strcache.c	/^  sc_buflen_t count;        \/* # of strings in this buffer (for stats).  *\/$/;"	m	struct:strcache	file:
+counter	src/dir.c	/^    unsigned long counter;      \/* command_count value when last read. *\/$/;"	m	struct:directory_contents	file:
+counter	src/dir.c	/^    unsigned long counter;      \/* command_count value when last read.$/;"	m	struct:directory	file:
+create_batch_file	src/job.c	/^create_batch_file (char const *base, int unixy, int *fd)$/;"	f	file:
+create_foreign_command	src/vms_export_symbol.c	/^create_foreign_command (const char * command, const char * image)$/;"	f
+create_new_variable_set	src/variable.c	/^create_new_variable_set (void)$/;"	f
+create_pattern_rule	src/rule.c	/^create_pattern_rule (const char **targets, const char **target_percents,$/;"	f
+create_pattern_var	src/variable.c	/^create_pattern_var (const char *target, const char *suffix)$/;"	f
+cs_deps_running	src/filedef.h	/^        cs_deps_running,        \/* Dep commands running.  *\/$/;"	e	enum:file::cmd_state
+cs_finished	src/filedef.h	/^        cs_finished             \/* Commands finished.  *\/$/;"	e	enum:file::cmd_state
+cs_not_started	src/filedef.h	/^        cs_not_started = 0,     \/* Not yet started.  Must be 0!  *\/$/;"	e	enum:file::cmd_state
+cs_running	src/filedef.h	/^        cs_running,             \/* Commands running.  *\/$/;"	e	enum:file::cmd_state
+ctime	src/dir.c	/^    time_t ctime;$/;"	m	struct:directory_contents	file:
+current_variable_set_list	src/variable.c	/^struct variable_set_list *current_variable_set_list = &global_setlist;$/;"	v	typeref:struct:variable_set_list
+cvt_scm_to_str	src/guile.c	/^cvt_scm_to_str (SCM obj)$/;"	f	file:
+d_fileno	src/vmsdir.h	/^  u_long d_fileno;$/;"	m	struct:direct
+d_ino	src/vmsdir.h	47;"	d
+d_name	src/vmsdir.h	/^  char d_name[MAXNAMLEN + 1];$/;"	m	struct:direct
+d_namlen	src/vmsdir.h	/^  u_short d_namlen;$/;"	m	struct:direct
+d_off	src/vmsdir.h	/^  off_t d_off;$/;"	m	struct:direct
+d_reclen	src/vmsdir.h	/^  u_short d_reclen;$/;"	m	struct:direct
+d_result	src/vmsdir.h	/^  char d_result[MAXNAMLEN + 1];$/;"	m	struct:DIR
+db_flags	src/main.c	/^static struct stringlist *db_flags = 0;$/;"	v	typeref:struct:stringlist	file:
+db_level	src/main.c	/^int db_level = 0;$/;"	v
+dbg	src/misc.c	/^dbg (const char *fmt, ...)$/;"	f
+dcgettext	src/gettext.h	35;"	d
+dcl_symbol	src/vms_export_symbol.c	/^struct dcl_symbol$/;"	s	file:
+dcngettext	src/gettext.h	40;"	d
+dead_children	src/job.c	/^static unsigned int dead_children = 0;$/;"	v	file:
+debug_flag	src/main.c	/^static int debug_flag = 0;$/;"	v	file:
+debug_signal_handler	src/main.c	/^debug_signal_handler (int sig UNUSED)$/;"	f	file:
+decode_debug_flags	src/main.c	/^decode_debug_flags (void)$/;"	f	file:
+decode_env_switches	src/main.c	/^decode_env_switches (const char *envar, size_t len, enum variable_origin origin)$/;"	f	file:
+decode_output_sync_flags	src/main.c	/^decode_output_sync_flags (void)$/;"	f	file:
+decode_switches	src/main.c	/^decode_switches (int argc, const char **argv, enum variable_origin origin)$/;"	f	file:
+default_file	src/main.c	/^struct file *default_file;$/;"	v	typeref:struct:file
+default_goal_var	src/main.c	/^struct variable * default_goal_var;$/;"	v	typeref:struct:variable
+default_include_directories	src/read.c	/^static const char *default_include_directories[] =$/;"	v	file:
+default_job_slots	src/main.c	/^static const int default_job_slots = INVALID_JOB_SLOTS;$/;"	v	file:
+default_keep_going_flag	src/main.c	/^static const int default_keep_going_flag = 0;$/;"	v	file:
+default_load_average	src/main.c	/^double default_load_average = -1.0;$/;"	v
+default_pattern_rules	src/default.c	/^static struct pspec default_pattern_rules[] =$/;"	v	typeref:struct:pspec	file:
+default_print_directory_flag	src/main.c	/^static const int default_print_directory_flag = -1;$/;"	v	file:
+default_shell	src/job.c	/^const char *default_shell = "";$/;"	v
+default_shell	src/job.c	/^const char *default_shell = "\/bin\/sh";$/;"	v
+default_shell	src/job.c	/^const char *default_shell = "command.com";$/;"	v
+default_shell	src/job.c	/^const char *default_shell = "sh.exe";$/;"	v
+default_silent_flag	src/main.c	/^static const int default_silent_flag = 0;$/;"	v	file:
+default_suffix_rules	src/default.c	/^static const char *default_suffix_rules[] =$/;"	v	file:
+default_suffixes	src/default.c	/^static char default_suffixes[]$/;"	v	file:
+default_terminal_rules	src/default.c	/^static struct pspec default_terminal_rules[] =$/;"	v	typeref:struct:pspec	file:
+default_value	src/main.c	/^    const void *default_value;    \/* Pointer to default value.  *\/$/;"	m	struct:command_switch	file:
+default_variables	src/default.c	/^static const char *default_variables[] =$/;"	v	file:
+define_automatic_variables	src/variable.c	/^define_automatic_variables (void)$/;"	f
+define_default_variables	src/default.c	/^define_default_variables (void)$/;"	f
+define_makeflags	src/main.c	/^define_makeflags (int makefile)$/;"	f
+define_new_function	src/function.c	/^define_new_function (const floc *flocp, const char *name,$/;"	f
+define_v	src/read.c	/^    unsigned int define_v:1;$/;"	m	struct:vmodifiers	file:
+define_variable	src/variable.h	200;"	d
+define_variable_cname	src/variable.h	206;"	d
+define_variable_for_file	src/variable.h	223;"	d
+define_variable_global	src/variable.h	218;"	d
+define_variable_in_set	src/variable.c	/^define_variable_in_set (const char *name, size_t length,$/;"	f
+define_variable_loc	src/variable.h	212;"	d
+defined_vars	src/variable.c	/^static const struct defined_vars defined_vars[] = {$/;"	v	typeref:struct:defined_vars	file:
+defined_vars	src/variable.c	/^struct defined_vars$/;"	s	file:
+delete_child_targets	src/commands.c	/^delete_child_targets (struct child *child)$/;"	f
+delete_target	src/commands.c	/^delete_target (struct file *file, const char *on_behalf_of)$/;"	f	file:
+deleted	src/job.h	/^    unsigned int  deleted:1;    \/* Nonzero if targets have been deleted.  *\/$/;"	m	struct:child
+dep	src/dep.h	/^struct dep$/;"	s
+dep	src/rule.h	/^    const char *target, *dep, *commands;$/;"	m	struct:pspec
+dep_hash_1	src/commands.c	/^dep_hash_1 (const void *key)$/;"	f	file:
+dep_hash_2	src/commands.c	/^dep_hash_2 (const void *key)$/;"	f	file:
+dep_hash_cmp	src/commands.c	/^dep_hash_cmp (const void *x, const void *y)$/;"	f	file:
+dep_name	src/dep.h	105;"	d
+deps	src/filedef.h	/^    struct dep *deps;           \/* all dependencies, including duplicates *\/$/;"	m	struct:file	typeref:struct:file::dep
+deps	src/rule.h	/^    struct dep *deps;           \/* Dependencies of the rule.  *\/$/;"	m	struct:rule	typeref:struct:rule::dep
+describe_member	src/arscan.c	/^describe_member (int desc, const char *name, int truncated,$/;"	f
+dev	src/dir.c	/^    dev_t dev;                  \/* Device and inode numbers of this dir.  *\/$/;"	m	struct:directory_contents	file:
+dgettext	src/gettext.h	34;"	d
+die	src/main.c	/^die (int status)$/;"	f
+dir	src/vmsdir.h	/^  struct direct dir;$/;"	m	struct:DIR	typeref:struct:DIR::direct
+dir_contents_file_exists_p	src/dir.c	/^dir_contents_file_exists_p (struct directory *dir,$/;"	f	file:
+dir_file_exists_p	src/dir.c	/^dir_file_exists_p (const char *dirname, const char *filename)$/;"	f
+dir_name	src/dir.c	/^dir_name (const char *dir)$/;"	f
+dir_setup_glob	src/dir.c	/^dir_setup_glob (glob_t *gl)$/;"	f
+direct	src/vmsdir.h	/^struct direct$/;"	s
+directories	src/dir.c	/^static struct hash_table directories;$/;"	v	typeref:struct:hash_table	file:
+directories	src/main.c	/^static struct stringlist *directories = 0;$/;"	v	typeref:struct:stringlist	file:
+directory	src/dir.c	/^struct directory$/;"	s	file:
+directory_before_chdir	src/main.c	/^char *directory_before_chdir;$/;"	v
+directory_contents	src/dir.c	/^static struct hash_table directory_contents;$/;"	v	typeref:struct:hash_table	file:
+directory_contents	src/dir.c	/^struct directory_contents$/;"	s	file:
+directory_contents_hash_1	src/dir.c	/^directory_contents_hash_1 (const void *key_0)$/;"	f	file:
+directory_contents_hash_2	src/dir.c	/^directory_contents_hash_2 (const void *key_0)$/;"	f	file:
+directory_contents_hash_cmp	src/dir.c	/^directory_contents_hash_cmp (const void *xv, const void *yv)$/;"	f	file:
+directory_hash_1	src/dir.c	/^directory_hash_1 (const void *key)$/;"	f	file:
+directory_hash_2	src/dir.c	/^directory_hash_2 (const void *key)$/;"	f	file:
+directory_hash_cmp	src/dir.c	/^directory_hash_cmp (const void *x, const void *y)$/;"	f	file:
+dirent	src/dir.c	31;"	d	file:
+dirfile	src/dir.c	/^struct dirfile$/;"	s	file:
+dirfile_hash_1	src/dir.c	/^dirfile_hash_1 (const void *key)$/;"	f	file:
+dirfile_hash_2	src/dir.c	/^dirfile_hash_2 (const void *key)$/;"	f	file:
+dirfile_hash_cmp	src/dir.c	/^dirfile_hash_cmp (const void *xv, const void *yv)$/;"	f	file:
+dirfile_slot	src/dir.c	/^    struct dirfile **dirfile_slot; \/* Current slot in table.  *\/$/;"	m	struct:dirstream	typeref:struct:dirstream::dirfile	file:
+dirfiles	src/dir.c	/^    struct hash_table dirfiles; \/* Files in this directory.  *\/$/;"	m	struct:directory_contents	typeref:struct:directory_contents::hash_table	file:
+dirstream	src/dir.c	/^    DIR *dirstream;             \/* Stream reading this directory.  *\/$/;"	m	struct:directory_contents	file:
+dirstream	src/dir.c	/^struct dirstream$/;"	s	file:
+dlp	src/load.c	/^    void *dlp;$/;"	m	struct:load_list	file:
+dngettext	src/gettext.h	38;"	d
+do_define	src/read.c	/^do_define (char *name, enum variable_origin origin, struct ebuffer *ebuf)$/;"	f	file:
+do_undefine	src/read.c	/^do_undefine (char *name, enum variable_origin origin, struct ebuffer *ebuf)$/;"	f	file:
+do_variable_definition	src/variable.c	/^do_variable_definition (const floc *flocp, const char *varname,$/;"	f
+dontcare	src/filedef.h	/^    unsigned int dontcare:1;    \/* Nonzero if no complaint is to be made if$/;"	m	struct:file
+dontcare	src/job.h	/^    unsigned int  dontcare:1;   \/* Saved dontcare flag.  *\/$/;"	m	struct:child
+dos_command_running	src/job.c	/^int dos_command_running;$/;"	v
+dos_pid	src/job.c	/^static int dos_pid = 123;$/;"	v	file:
+dos_status	src/job.c	/^int dos_status;$/;"	v
+dosify	src/dir.c	/^dosify (const char *filename)$/;"	f	file:
+double_colon	src/filedef.h	/^    struct file *double_colon;$/;"	m	struct:file	typeref:struct:file::file
+downcase	src/dir.c	/^downcase (const char *filename)$/;"	f	file:
+downcase_inplace	src/dir.c	/^downcase_inplace(char *filename)$/;"	f	file:
+dup2	src/job.c	/^dup2 (int old, int new)$/;"	f
+ebuffer	src/read.c	/^struct ebuffer$/;"	s	file:
+end	src/strcache.c	/^  sc_buflen_t end;          \/* Offset to the beginning of free space.  *\/$/;"	m	struct:strcache	file:
+end_of_token	src/misc.c	/^end_of_token (const char *s)$/;"	f
+enter_file	src/file.c	/^enter_file (const char *name)$/;"	f
+enter_prereqs	src/file.c	/^enter_prereqs (struct dep *deps, const char *stem)$/;"	f
+env	src/main.c	/^    unsigned int env:1;           \/* Can come from MAKEFLAGS.  *\/$/;"	m	struct:command_switch	file:
+env_overrides	src/main.c	/^int env_overrides = 0;$/;"	v
+env_recursion	src/variable.c	/^unsigned long long env_recursion = 0;$/;"	v
+err	src/output.h	/^    int err;$/;"	m	struct:output
+error	src/arscan.c	21;"	d	file:
+error	src/dep.h	/^    int error;$/;"	m	struct:goaldep
+error	src/output.c	/^error (const floc *flocp, size_t len, const char *fmt, ...)$/;"	f
+eval	src/read.c	/^eval (struct ebuffer *ebuf, int set_default)$/;"	f	file:
+eval_buffer	src/read.c	/^eval_buffer (char *buffer, const floc *flocp)$/;"	f
+eval_makefile	src/read.c	/^eval_makefile (const char *filename, unsigned short flags)$/;"	f	file:
+eval_strings	src/main.c	/^static struct stringlist *eval_strings = 0;$/;"	v	typeref:struct:stringlist	file:
+exchange	src/getopt.c	/^exchange (char **argv)$/;"	f	file:
+exec_command	src/job.c	/^exec_command (char **argv)$/;"	f
+exec_command	src/job.c	/^exec_command (char **argv, char **envp)$/;"	f
+execute_by_shell	src/job.c	/^static int execute_by_shell;$/;"	v	file:
+execute_file_commands	src/commands.c	/^execute_file_commands (struct file *file)$/;"	f
+exit	src/makeint.h	775;"	d
+exp_count	src/variable.h	/^    unsigned int exp_count:EXP_COUNT_BITS;$/;"	m	struct:variable
+expand_args	src/function.c	/^    unsigned int expand_args:1;$/;"	m	struct:function_table_entry	file:
+expand_argument	src/expand.c	/^expand_argument (const char *str, const char *end)$/;"	f
+expand_builtin_function	src/function.c	/^expand_builtin_function (char *o, unsigned int argc, char **argv,$/;"	f	file:
+expand_command_line_file	src/main.c	/^expand_command_line_file (const char *name)$/;"	f	file:
+expand_deps	src/file.c	/^expand_deps (struct file *f)$/;"	f
+expand_extra_prereqs	src/file.c	/^expand_extra_prereqs (const struct variable *extra)$/;"	f
+expanding	src/variable.h	/^    unsigned int expanding:1;   \/* Nonzero if currently being expanded.  *\/$/;"	m	struct:variable
+expanding_var	src/expand.c	/^const floc **expanding_var = &reading_file;$/;"	v
+export_all_variables	src/variable.c	/^int export_all_variables;$/;"	v
+exportable	src/variable.h	/^    unsigned int exportable:1;  \/* Nonzero if the variable _could_ be$/;"	m	struct:variable
+f_append	src/variable.h	/^    f_append,           \/* Appending definition (+=) *\/$/;"	e	enum:variable_flavor
+f_append_value	src/variable.h	/^    f_append_value      \/* Append unexpanded value *\/$/;"	e	enum:variable_flavor
+f_bogus	src/variable.h	/^    f_bogus,            \/* Bogus (error) *\/$/;"	e	enum:variable_flavor
+f_conditional	src/variable.h	/^    f_conditional,      \/* Conditional definition (?=) *\/$/;"	e	enum:variable_flavor
+f_expand	src/variable.h	/^    f_expand,           \/* POSIX :::= assignment *\/$/;"	e	enum:variable_flavor
+f_mtime	src/remake.c	/^f_mtime (struct file *file, int search)$/;"	f
+f_recursive	src/variable.h	/^    f_recursive,        \/* Recursive definition (=) *\/$/;"	e	enum:variable_flavor
+f_shell	src/variable.h	/^    f_shell,            \/* Shell assignment (!=) *\/$/;"	e	enum:variable_flavor
+f_simple	src/variable.h	/^    f_simple,           \/* Simple definition (:= or ::=) *\/$/;"	e	enum:variable_flavor
+fab	src/vmsdir.h	/^  struct FAB fab;$/;"	m	struct:DIR	typeref:struct:DIR::FAB
+fab	src/vmsdir.h	/^  struct fabdef fab;$/;"	m	struct:DIR	typeref:struct:DIR::fabdef
+fatal	src/output.c	/^fatal (const floc *flocp, size_t len, const char *fmt, ...)$/;"	f
+fatal_error_signal	src/commands.c	/^fatal_error_signal (int sig)$/;"	f
+fatal_signal_mask	src/main.c	/^int fatal_signal_mask;$/;"	v
+fatal_signal_set	src/main.c	/^sigset_t fatal_signal_set;$/;"	v
+fd_inherit	src/os.h	25;"	d
+fd_inherit	src/posixos.c	/^fd_inherit (int fd)$/;"	f
+fd_inherit	src/posixos.c	/^void fd_inherit (int fd) {}$/;"	f
+fd_noinherit	src/os.h	26;"	d
+fd_noinherit	src/posixos.c	/^fd_noinherit (int fd)$/;"	f
+fd_noinherit	src/posixos.c	/^void fd_noinherit (int fd) {}$/;"	f
+fd_set_append	src/os.h	27;"	d
+fd_set_append	src/posixos.c	/^fd_set_append (int fd)$/;"	f
+fifo_name	src/posixos.c	/^static char *fifo_name = NULL;$/;"	v	file:
+file	src/filedef.h	/^struct file$/;"	s
+file	src/implicit.c	/^    struct file *file;$/;"	m	struct:patdeps	typeref:struct:patdeps::file	file:
+file	src/job.h	/^    struct file *file;          \/* File being remade.  *\/$/;"	m	struct:child	typeref:struct:child::file
+file_exists_p	src/dir.c	/^file_exists_p (const char *name)$/;"	f
+file_hash_1	src/file.c	/^file_hash_1 (const void *key)$/;"	f	file:
+file_hash_2	src/file.c	/^file_hash_2 (const void *key)$/;"	f	file:
+file_hash_cmp	src/file.c	/^file_hash_cmp (const void *x, const void *y)$/;"	f	file:
+file_impossible	src/dir.c	/^file_impossible (const char *filename)$/;"	f
+file_impossible_p	src/dir.c	/^file_impossible_p (const char *filename)$/;"	f
+file_mtime	src/filedef.h	187;"	d
+file_mtime_1	src/filedef.h	194;"	d
+file_mtime_no_search	src/filedef.h	192;"	d
+file_timestamp_cons	src/file.c	/^file_timestamp_cons (const char *fname, time_t stamp, long int ns)$/;"	f
+file_timestamp_now	src/file.c	/^file_timestamp_now (int *resolution)$/;"	f
+file_timestamp_sprintf	src/file.c	/^file_timestamp_sprintf (char *p, FILE_TIMESTAMP ts)$/;"	f
+fileinfo	src/commands.h	/^    floc fileinfo;              \/* Where commands were defined.  *\/$/;"	m	struct:commands
+fileinfo	src/variable.h	/^    floc fileinfo;              \/* Where the variable was defined.  *\/$/;"	m	struct:variable
+filename	src/main.c	/^        filename,                 \/* A string containing a file name.  *\/$/;"	e	enum:command_switch::__anon1	file:
+filenm	src/gnumake.h	/^    const char *filenm;$/;"	m	struct:__anon4
+filenm	src/makeint.h	/^    const char *filenm;$/;"	m	struct:__anon7
+files	src/file.c	/^static struct hash_table files;$/;"	v	typeref:struct:hash_table	file:
+filescan_itmlst_2	src/vms_progname.c	/^struct filescan_itmlst_2$/;"	s	file:
+find_and_set_default_shell	src/main.c	/^find_and_set_default_shell (const char *token)$/;"	f
+find_char_unquote	src/read.c	/^find_char_unquote (char *string, int stop)$/;"	f	file:
+find_directory	src/dir.c	/^find_directory (const char *name)$/;"	f	file:
+find_map_unquote	src/read.c	/^find_map_unquote (char *string, int stopmap)$/;"	f	file:
+find_next_argument	src/function.c	/^find_next_argument (char startparen, char endparen,$/;"	f	file:
+find_next_token	src/misc.c	/^find_next_token (const char **ptr, size_t *lengthptr)$/;"	f
+find_percent	src/read.c	/^find_percent (char *pattern)$/;"	f
+find_percent_cached	src/read.c	/^find_percent_cached (const char **string)$/;"	f
+finish_updating	src/remake.c	55;"	d	file:
+first_nonopt	src/getopt.c	/^static int first_nonopt;$/;"	v	file:
+flag	src/getopt.h	/^  int *flag;$/;"	m	struct:option
+flag	src/main.c	/^        flag,                     \/* Turn int flag on.  *\/$/;"	e	enum:command_switch::__anon1	file:
+flag_off	src/main.c	/^        flag_off,                 \/* Turn int flag off.  *\/$/;"	e	enum:command_switch::__anon1	file:
+floating	src/main.c	/^        floating,                 \/* A floating-point number (double).  *\/$/;"	e	enum:command_switch::__anon1	file:
+floc	src/dep.h	/^    floc floc;$/;"	m	struct:goaldep
+floc	src/makeint.h	/^  } floc;$/;"	t	typeref:struct:__anon7
+floc	src/read.c	/^    floc floc;          \/* Info on the file in fp (if any).  *\/$/;"	m	struct:ebuffer	file:
+fmtbuf	src/output.c	/^  } fmtbuf = { NULL, 0 };$/;"	v	typeref:struct:fmtstring	file:
+fmtstring	src/output.c	/^static struct fmtstring$/;"	s	file:
+fold_newlines	src/function.c	/^fold_newlines (char *buffer, size_t *length, int trim_newlines)$/;"	f	file:
+fp	src/read.c	/^    FILE *fp;           \/* File, or NULL if this is an internal buffer.  *\/$/;"	m	struct:ebuffer	file:
+fptr	src/function.c	/^    } fptr;$/;"	m	struct:function_table_entry	typeref:union:function_table_entry::__anon2	file:
+free_alloca	src/makeint.h	29;"	d
+free_alloca	src/makeint.h	31;"	d
+free_alloca	src/makeint.h	34;"	d
+free_child	src/job.c	/^free_child (struct child *child)$/;"	f	file:
+free_childbase	src/job.c	/^free_childbase (struct childbase *child)$/;"	f
+free_dep	src/dep.h	/^SI void free_dep (struct dep *d)         { free_ns ((struct nameseq *)d); }$/;"	f
+free_dep	src/dep.h	128;"	d
+free_dep_chain	src/dep.h	/^SI void free_dep_chain (struct dep *d)   { free_ns_chain((struct nameseq *)d); }$/;"	f
+free_dep_chain	src/dep.h	131;"	d
+free_goal_chain	src/dep.h	/^SI void free_goal_chain (struct goaldep *g) { free_dep_chain((struct dep *)g); }$/;"	f
+free_goal_chain	src/dep.h	132;"	d
+free_goaldep	src/dep.h	/^SI void free_goaldep (struct goaldep *g) { free_dep ((struct dep *)g); }$/;"	f
+free_goaldep	src/dep.h	129;"	d
+free_ns	src/dep.h	/^SI void free_ns (struct nameseq *n)      { free (n); }$/;"	f
+free_ns	src/dep.h	127;"	d
+free_ns_chain	src/misc.c	/^free_ns_chain (struct nameseq *ns)$/;"	f
+free_variable_name_and_value	src/variable.c	/^free_variable_name_and_value (const void *item)$/;"	f	file:
+free_variable_set	src/variable.c	/^free_variable_set (struct variable_set_list *list)$/;"	f
+freerule	src/rule.c	/^freerule (struct rule *rule, struct rule *lastrule)$/;"	f	file:
+fs_flags	src/dir.c	/^    int fs_flags;     \/* FS_FAT, FS_NTFS, ... *\/$/;"	m	struct:directory_contents	file:
+ftruncate	src/makeint.h	376;"	d
+fullcache	src/strcache.c	/^static struct strcache *fullcache = NULL;$/;"	v	typeref:struct:strcache	file:
+func_abspath	src/function.c	/^func_abspath (char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_addsuffix_addprefix	src/function.c	/^func_addsuffix_addprefix (char *o, char **argv, const char *funcname)$/;"	f	file:
+func_and	src/function.c	/^func_and (char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_basename_dir	src/function.c	/^func_basename_dir (char *o, char **argv, const char *funcname)$/;"	f	file:
+func_call	src/function.c	/^func_call (char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_eq	src/function.c	/^func_eq (char *o, char **argv, char *funcname UNUSED)$/;"	f	file:
+func_error	src/function.c	/^func_error (char *o, char **argv, const char *funcname)$/;"	f	file:
+func_eval	src/function.c	/^func_eval (char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_file	src/function.c	/^func_file (char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_filter_filterout	src/function.c	/^func_filter_filterout (char *o, char **argv, const char *funcname)$/;"	f	file:
+func_findstring	src/function.c	/^func_findstring (char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_firstword	src/function.c	/^func_firstword (char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_flavor	src/function.c	/^func_flavor (char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_foreach	src/function.c	/^func_foreach (char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_guile	src/guile.c	/^func_guile (const char *funcname UNUSED, unsigned int argc UNUSED, char **argv)$/;"	f	file:
+func_if	src/function.c	/^func_if (char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_intcmp	src/function.c	/^func_intcmp (char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_join	src/function.c	/^func_join (char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_lastword	src/function.c	/^func_lastword (char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_let	src/function.c	/^func_let (char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_not	src/function.c	/^func_not (char *o, char **argv, char *funcname UNUSED)$/;"	f	file:
+func_notdir_suffix	src/function.c	/^func_notdir_suffix (char *o, char **argv, const char *funcname)$/;"	f	file:
+func_or	src/function.c	/^func_or (char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_origin	src/function.c	/^func_origin (char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_patsubst	src/function.c	/^func_patsubst (char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_ptr	src/function.c	/^      char *(*func_ptr) (char *output, char **argv, const char *fname);$/;"	m	union:function_table_entry::__anon2	file:
+func_realpath	src/function.c	/^func_realpath (char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_shell	src/function.c	/^func_shell (char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_shell	src/function.c	1834;"	d	file:
+func_shell_base	src/function.c	/^func_shell_base (char *o, char **argv, int trim_newlines)$/;"	f
+func_sort	src/function.c	/^func_sort (char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_strip	src/function.c	/^func_strip (char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_subst	src/function.c	/^func_subst (char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_value	src/function.c	/^func_value (char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_wildcard	src/function.c	/^func_wildcard (char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_word	src/function.c	/^func_word (char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_wordlist	src/function.c	/^func_wordlist (char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+func_words	src/function.c	/^func_words (char *o, char **argv, const char *funcname UNUSED)$/;"	f	file:
+function_table	src/function.c	/^static struct hash_table function_table;$/;"	v	typeref:struct:hash_table	file:
+function_table_entry	src/function.c	/^struct function_table_entry$/;"	s	file:
+function_table_entry_hash_1	src/function.c	/^function_table_entry_hash_1 (const void *keyv)$/;"	f	file:
+function_table_entry_hash_2	src/function.c	/^function_table_entry_hash_2 (const void *keyv)$/;"	f	file:
+function_table_entry_hash_cmp	src/function.c	/^function_table_entry_hash_cmp (const void *xv, const void *yv)$/;"	f	file:
+function_table_init	src/function.c	/^static struct function_table_entry function_table_init[] =$/;"	v	typeref:struct:function_table_entry	file:
+general_vpath	src/vpath.c	/^static struct vpath *general_vpath;$/;"	v	typeref:struct:vpath	file:
+get_bad_stdin	src/os.h	155;"	d
+get_bad_stdin	src/posixos.c	/^get_bad_stdin ()$/;"	f
+get_buffer	src/output.c	/^get_buffer (size_t need)$/;"	f	file:
+get_next_mword	src/read.c	/^get_next_mword (char *buffer, char **startp, size_t *length)$/;"	f	file:
+get_next_word	src/implicit.c	/^get_next_word (const char *buffer, size_t *length)$/;"	f	file:
+get_path_max	src/misc.c	/^get_path_max (void)$/;"	f
+get_rule_defn	src/rule.c	/^get_rule_defn (struct rule *r)$/;"	f
+get_tmpdir	src/misc.c	/^get_tmpdir ()$/;"	f
+get_tmpfd	src/misc.c	/^get_tmpfd (char **name)$/;"	f
+get_tmpfile	src/misc.c	/^get_tmpfile (char **name)$/;"	f
+get_tmppath	src/misc.c	/^get_tmppath ()$/;"	f	file:
+get_tmptemplate	src/misc.c	/^get_tmptemplate ()$/;"	f	file:
+get_vms_env_flag	src/main.c	/^get_vms_env_flag (const char *name, int default_value)$/;"	f	file:
+getcwd	src/makeint.h	695;"	d
+getcwd	src/makeint.h	849;"	d
+getcwd	src/makeint.h	858;"	d
+getopt	src/getopt.c	/^getopt (int argc, char *const *argv, const char *optstring)$/;"	f
+getopt_long	src/getopt1.c	/^getopt_long (int argc, char *const *argv, const char *options,$/;"	f
+getopt_long_only	src/getopt1.c	/^getopt_long_only (int argc, char *const *argv, const char *options,$/;"	f
+gettext	src/gettext.h	33;"	d
+gettext_noop	src/gettext.h	55;"	d
+global_setlist	src/variable.c	/^static struct variable_set_list global_setlist$/;"	v	typeref:struct:variable_set_list	file:
+global_variable_set	src/variable.c	/^static struct variable_set global_variable_set;$/;"	v	typeref:struct:variable_set	file:
+gmk_add_function	src/loadapi.c	/^gmk_add_function (const char *name, gmk_func_ptr func,$/;"	f
+gmk_alloc	src/loadapi.c	/^gmk_alloc (unsigned int len)$/;"	f
+gmk_eval	src/loadapi.c	/^gmk_eval (const char *buffer, const gmk_floc *gfloc)$/;"	f
+gmk_expand	src/loadapi.c	/^gmk_expand (const char *ref)$/;"	f
+gmk_floc	src/gnumake.h	/^  } gmk_floc;$/;"	t	typeref:struct:__anon4
+gmk_free	src/loadapi.c	/^gmk_free (char *s)$/;"	f
+gmk_func_ptr	src/gnumake.h	/^typedef char *(*gmk_func_ptr)(const char *nm, unsigned int argc, char **argv);$/;"	t
+goal_dep	src/remake.c	/^static struct dep *goal_dep;$/;"	v	typeref:struct:dep	file:
+goal_list	src/remake.c	/^static struct goaldep *goal_list;$/;"	v	typeref:struct:goaldep	file:
+goaldep	src/dep.h	/^struct goaldep$/;"	s
+goals	src/main.c	/^static struct goaldep *goals, *lastgoal;$/;"	v	typeref:struct:goaldep	file:
+good_stdin	src/job.h	/^    unsigned int  good_stdin:1; \/* Nonzero if this child has a good stdin.  *\/$/;"	m	struct:child
+good_stdin_used	src/job.c	/^static int good_stdin_used = 0;$/;"	v	file:
+gpath_search	src/vpath.c	/^gpath_search (const char *file, size_t len)$/;"	f
+gpaths	src/vpath.c	/^static struct vpath *gpaths;$/;"	v	typeref:struct:vpath	file:
+guile_define_module	src/guile.c	/^guile_define_module (void *data UNUSED)$/;"	f	file:
+guile_eval_wrapper	src/guile.c	/^guile_eval_wrapper (SCM obj)$/;"	f	file:
+guile_expand_wrapper	src/guile.c	/^guile_expand_wrapper (SCM obj)$/;"	f	file:
+guile_gmake_setup	src/guile.c	/^guile_gmake_setup (const floc *flocp UNUSED)$/;"	f
+guile_init	src/guile.c	/^guile_init (void *arg UNUSED)$/;"	f	file:
+handle_function	src/function.c	/^handle_function (char **op, const char **stringp)$/;"	f
+handle_non_switch_argument	src/main.c	/^handle_non_switch_argument (const char *arg, enum variable_origin origin)$/;"	f	file:
+handle_runtime_exceptions	src/main.c	/^handle_runtime_exceptions (struct _EXCEPTION_POINTERS *exinfo)$/;"	f
+handling_fatal_signal	src/commands.c	/^volatile sig_atomic_t handling_fatal_signal = 0;$/;"	v
+has_arg	src/getopt.h	/^  int has_arg;$/;"	m	struct:option
+hash_cmp_func_t	src/hash.h	/^typedef int (*hash_cmp_func_t) __P((void const *x, void const *y));$/;"	t
+hash_delete	src/hash.c	/^hash_delete (struct hash_table *ht, const void *item)$/;"	f
+hash_delete_at	src/hash.c	/^hash_delete_at (struct hash_table *ht, const void *slot)$/;"	f
+hash_delete_items	src/hash.c	/^hash_delete_items (struct hash_table *ht)$/;"	f
+hash_deleted_item	src/hash.c	/^void *hash_deleted_item = &hash_deleted_item;$/;"	v
+hash_dump	src/hash.c	/^hash_dump (struct hash_table *ht, void **vector_0, qsort_cmp_t compare)$/;"	f
+hash_find_item	src/hash.c	/^hash_find_item (struct hash_table *ht, const void *key)$/;"	f
+hash_find_slot	src/hash.c	/^hash_find_slot (struct hash_table *ht, const void *key)$/;"	f
+hash_free	src/hash.c	/^hash_free (struct hash_table *ht, int free_items)$/;"	f
+hash_free_items	src/hash.c	/^hash_free_items (struct hash_table *ht)$/;"	f
+hash_func_t	src/hash.h	/^typedef unsigned long (*hash_func_t) __P((void const *key));$/;"	t
+hash_init	src/hash.c	/^hash_init (struct hash_table *ht, unsigned long size,$/;"	f
+hash_init_directories	src/dir.c	/^hash_init_directories (void)$/;"	f
+hash_init_function_table	src/function.c	/^hash_init_function_table (void)$/;"	f
+hash_insert	src/hash.c	/^hash_insert (struct hash_table *ht, const void *item)$/;"	f
+hash_insert_at	src/hash.c	/^hash_insert_at (struct hash_table *ht, const void *item, const void *slot)$/;"	f
+hash_load	src/hash.c	/^hash_load (struct hash_table *ht, void *item_table,$/;"	f
+hash_map	src/hash.c	/^hash_map (struct hash_table *ht, hash_map_func_t map)$/;"	f
+hash_map_arg	src/hash.c	/^hash_map_arg (struct hash_table *ht, hash_map_arg_func_t map, void *arg)$/;"	f
+hash_map_arg_func_t	src/hash.h	/^typedef void (*hash_map_arg_func_t) __P((void const *item, void *arg));$/;"	t
+hash_map_func_t	src/hash.h	/^typedef void (*hash_map_func_t) __P((void const *item));$/;"	t
+hash_print_stats	src/hash.c	/^hash_print_stats (struct hash_table *ht, FILE *out_FILE)$/;"	f
+hash_rehash	src/hash.c	/^hash_rehash (struct hash_table *ht)$/;"	f	file:
+hash_table	src/hash.h	/^struct hash_table$/;"	s
+hname	src/filedef.h	/^    const char *hname;          \/* Hashed filename *\/$/;"	m	struct:file
+ht_capacity	src/hash.h	/^  unsigned long ht_capacity;	\/* usable slots, limited by loading-factor *\/$/;"	m	struct:hash_table
+ht_collisions	src/hash.h	/^  unsigned long ht_collisions;	\/* # of failed calls to comparison function *\/$/;"	m	struct:hash_table
+ht_compare	src/hash.h	/^  hash_cmp_func_t ht_compare;	\/* comparison function *\/$/;"	m	struct:hash_table
+ht_empty_slots	src/hash.h	/^  unsigned long ht_empty_slots;	\/* empty slots not including deleted slots *\/$/;"	m	struct:hash_table
+ht_fill	src/hash.h	/^  unsigned long ht_fill;	\/* items in table *\/$/;"	m	struct:hash_table
+ht_hash_1	src/hash.h	/^  hash_func_t ht_hash_1;	\/* primary hash function *\/$/;"	m	struct:hash_table
+ht_hash_2	src/hash.h	/^  hash_func_t ht_hash_2;	\/* secondary hash function *\/$/;"	m	struct:hash_table
+ht_lookups	src/hash.h	/^  unsigned long ht_lookups;	\/* # of queries *\/$/;"	m	struct:hash_table
+ht_rehashes	src/hash.h	/^  unsigned int ht_rehashes;	\/* # of times we've expanded table *\/$/;"	m	struct:hash_table
+ht_size	src/hash.h	/^  unsigned long ht_size;	\/* total number of slots (power of 2) *\/$/;"	m	struct:hash_table
+ht_vec	src/hash.h	/^  void **ht_vec;$/;"	m	struct:hash_table
+hugestring	src/strcache.c	/^struct hugestring {$/;"	s	file:
+hugestrings	src/strcache.c	/^static struct hugestring *hugestrings = NULL;$/;"	v	typeref:struct:hugestring	file:
+identity_shuffle_array	src/shuffle.c	/^identity_shuffle_array (void **a UNUSED, size_t len UNUSED)$/;"	f	file:
+idx	src/main.c	/^    unsigned int idx;   \/* Index into above.  *\/$/;"	m	struct:stringlist	file:
+if_cmds	src/read.c	/^    unsigned int if_cmds;       \/* Depth of conditional nesting.  *\/$/;"	m	struct:conditionals	file:
+ignore	src/main.c	/^        ignore                    \/* Ignored.  *\/$/;"	e	enum:command_switch::__anon1	file:
+ignore_automatic_vars	src/implicit.c	/^    unsigned int ignore_automatic_vars : 1;$/;"	m	struct:patdeps	file:
+ignore_errors_flag	src/main.c	/^int ignore_errors_flag = 0;$/;"	v
+ignore_mtime	src/implicit.c	/^    unsigned int ignore_mtime : 1;$/;"	m	struct:patdeps	file:
+ignore_vpath	src/filedef.h	/^    unsigned int ignore_vpath:1;\/* Nonzero if we threw out VPATH name.  *\/$/;"	m	struct:file
+ignoring	src/read.c	/^    char *ignoring;             \/* Are we ignoring or interpreting?$/;"	m	struct:conditionals	file:
+impossible	src/dir.c	/^    short impossible;           \/* This file is impossible.  *\/$/;"	m	struct:dirfile	file:
+in_use	src/rule.h	/^    char in_use;                \/* If in use by a parent pattern_search.  *\/$/;"	m	struct:rule
+include_directories	src/read.c	/^static const char **include_directories;$/;"	v	file:
+include_dirs	src/main.c	/^static struct stringlist *include_dirs = 0;$/;"	v	typeref:struct:stringlist	file:
+inf_jobs	src/main.c	/^static const int inf_jobs = 0;$/;"	v	file:
+init_hash_files	src/file.c	/^init_hash_files (void)$/;"	f
+init_hash_global_variable_set	src/variable.c	/^init_hash_global_variable_set (void)$/;"	f
+init_sig	src/signame.c	/^init_sig (int number, const char *abbrev, const char *name)$/;"	f	file:
+init_switches	src/main.c	/^init_switches (void)$/;"	f	file:
+initialize_file_variables	src/variable.c	/^initialize_file_variables (struct file *file, int reading)$/;"	f
+initialize_global_hash_tables	src/main.c	/^initialize_global_hash_tables (void)$/;"	f	file:
+initialize_main	src/makeint.h	837;"	d
+initialize_main	src/makeint.h	840;"	d
+initialize_main	src/makeint.h	863;"	d
+initialize_stopchar_map	src/main.c	/^initialize_stopchar_map (void)$/;"	f	file:
+initialize_variable_output	src/expand.c	/^initialize_variable_output ()$/;"	f
+ino	src/dir.c	/^    ino_t ino;$/;"	m	struct:directory_contents	file:
+ino	src/dir.c	/^    ino_t ino[3];$/;"	m	struct:directory_contents	file:
+install_conditionals	src/read.c	/^install_conditionals (struct conditionals *new)$/;"	f	file:
+install_default_implicit_rules	src/default.c	/^install_default_implicit_rules (void)$/;"	f
+install_default_suffix_rules	src/default.c	/^install_default_suffix_rules ()$/;"	f
+install_pattern_rule	src/rule.c	/^install_pattern_rule (struct pspec *p, int terminal)$/;"	f
+install_variable_buffer	src/expand.c	/^install_variable_buffer (char **bufp, size_t *lenp)$/;"	f
+intermediate	src/filedef.h	/^    unsigned int intermediate:1;\/* Nonzero if this is an intermediate file.  *\/$/;"	m	struct:file
+internal_guile_eval	src/guile.c	/^internal_guile_eval (void *arg)$/;"	f	file:
+internal_need_vms_symbol	src/vms_progname.c	/^static int internal_need_vms_symbol = 0;$/;"	v	file:
+is_bourne_compatible_shell	src/job.c	/^is_bourne_compatible_shell (const char *path)$/;"	f
+is_explicit	src/filedef.h	/^    unsigned int is_explicit:1; \/* Nonzero if explicitly mentioned. *\/$/;"	m	struct:file
+is_explicit	src/implicit.c	/^    unsigned int is_explicit : 1;$/;"	m	struct:patdeps	file:
+is_ordinary_mtime	src/filedef.h	215;"	d
+is_target	src/filedef.h	/^    unsigned int is_target:1;   \/* Nonzero if file is described as target.  *\/$/;"	m	struct:file
+is_updating	src/remake.c	57;"	d	file:
+item_list_3	src/vms_export_symbol.c	/^struct item_list_3$/;"	s	file:
+item_list_3	src/vms_progname.c	/^struct item_list_3$/;"	s	file:
+itmcode	src/vms_progname.c	/^  unsigned short itmcode;$/;"	m	struct:filescan_itmlst_2	file:
+jhash	src/hash.c	/^jhash(unsigned const char *k, int length)$/;"	f
+jhash_final	src/hash.c	347;"	d	file:
+jhash_mix	src/hash.c	336;"	d	file:
+jhash_string	src/hash.c	/^jhash_string(unsigned const char *k)$/;"	f
+job_counter	src/job.c	/^unsigned long job_counter = 0;$/;"	v
+job_fds	src/posixos.c	/^static int job_fds[2] = { -1, -1 };$/;"	v	file:
+job_next_command	src/job.c	/^job_next_command (struct child *child)$/;"	f	file:
+job_noop	src/posixos.c	/^job_noop (int sig UNUSED)$/;"	f	file:
+job_rfd	src/posixos.c	/^static int job_rfd = -1;$/;"	v	file:
+job_root	src/posixos.c	/^static unsigned char job_root = 0;$/;"	v	file:
+job_slots	src/main.c	/^unsigned int job_slots;$/;"	v
+job_slots_used	src/job.c	/^unsigned int job_slots_used = 0;$/;"	v
+jobserver_acquire	src/os.h	110;"	d
+jobserver_acquire	src/posixos.c	/^jobserver_acquire (int timeout)$/;"	f
+jobserver_acquire_all	src/os.h	105;"	d
+jobserver_acquire_all	src/posixos.c	/^jobserver_acquire_all ()$/;"	f
+jobserver_auth	src/main.c	/^char *jobserver_auth = NULL;$/;"	v
+jobserver_clear	src/os.h	103;"	d
+jobserver_clear	src/posixos.c	/^jobserver_clear ()$/;"	f
+jobserver_enabled	src/os.h	98;"	d
+jobserver_enabled	src/posixos.c	/^jobserver_enabled ()$/;"	f
+jobserver_get_auth	src/os.h	101;"	d
+jobserver_get_auth	src/posixos.c	/^jobserver_get_auth ()$/;"	f
+jobserver_get_invalid_auth	src/os.h	102;"	d
+jobserver_get_invalid_auth	src/posixos.c	/^jobserver_get_invalid_auth ()$/;"	f
+jobserver_parse_auth	src/os.h	100;"	d
+jobserver_parse_auth	src/posixos.c	/^jobserver_parse_auth (const char *auth)$/;"	f
+jobserver_post_child	src/os.h	108;"	d
+jobserver_post_child	src/posixos.c	/^jobserver_post_child (int recursive)$/;"	f
+jobserver_pre_acquire	src/os.h	109;"	d
+jobserver_pre_acquire	src/posixos.c	/^jobserver_pre_acquire ()$/;"	f
+jobserver_pre_child	src/os.h	107;"	d
+jobserver_pre_child	src/posixos.c	/^jobserver_pre_child (int recursive)$/;"	f
+jobserver_release	src/os.h	104;"	d
+jobserver_release	src/posixos.c	/^jobserver_release (int is_fatal)$/;"	f
+jobserver_setup	src/os.h	99;"	d
+jobserver_setup	src/posixos.c	/^jobserver_setup (int slots, const char *style)$/;"	f
+jobserver_signal	src/os.h	106;"	d
+jobserver_signal	src/posixos.c	/^jobserver_signal ()$/;"	f
+jobserver_style	src/main.c	/^static char *jobserver_style = NULL;$/;"	v	file:
+jobserver_tokens	src/job.c	/^unsigned int jobserver_tokens = 0;$/;"	v
+jobslot	src/job.h	/^    unsigned int  jobslot:1;    \/* Nonzero if it's reserved a job slot.  *\/$/;"	m	struct:child
+js_fifo	src/posixos.c	/^    js_fifo             \/* Use a named pipe as the jobserver.  *\/$/;"	e	enum:js_type	file:
+js_none	src/posixos.c	/^    js_none = 0,        \/* No jobserver.  *\/$/;"	e	enum:js_type	file:
+js_pipe	src/posixos.c	/^    js_pipe,            \/* Use a simple pipe as the jobserver.  *\/$/;"	e	enum:js_type	file:
+js_type	src/posixos.c	/^enum js_type$/;"	g	file:
+js_type	src/posixos.c	/^static enum js_type js_type = js_none;$/;"	v	typeref:enum:js_type	file:
+just_print_flag	src/main.c	/^int just_print_flag;$/;"	v
+keep_going_flag	src/main.c	/^int keep_going_flag;$/;"	v
+keep_going_origin	src/main.c	/^static enum variable_origin keep_going_origin = o_default;$/;"	v	typeref:enum:variable_origin	file:
+kill	src/makeint.h	373;"	d
+last	src/filedef.h	/^    struct file *last;          \/* Last entry for the same file name.  *\/$/;"	m	struct:file	typeref:struct:file::file
+last_mtime	src/filedef.h	/^    FILE_TIMESTAMP last_mtime;  \/* File's modtime, if already known.  *\/$/;"	m	struct:file
+last_nonopt	src/getopt.c	/^static int last_nonopt;$/;"	v	file:
+last_pattern_rule	src/rule.c	/^struct rule *last_pattern_rule;$/;"	v	typeref:struct:rule
+last_pattern_vars	src/variable.c	/^static struct pattern_var *last_pattern_vars[256];$/;"	v	typeref:struct:pattern_var	file:
+lastgoal	src/main.c	/^static struct goaldep *goals, *lastgoal;$/;"	v	typeref:struct:	file:
+len	src/function.c	/^    unsigned char len;$/;"	m	struct:function_table_entry	file:
+len	src/variable.c	/^    size_t len;$/;"	m	struct:defined_vars	file:
+len	src/variable.h	/^    size_t len;$/;"	m	struct:pattern_var
+len	src/vms_export_symbol.c	/^  unsigned short len;$/;"	m	struct:item_list_3	file:
+len	src/vms_progname.c	/^  unsigned short len;$/;"	m	struct:item_list_3	file:
+length	src/dir.c	/^    size_t length;$/;"	m	struct:dirfile	file:
+length	src/function.c	/^  size_t length;$/;"	m	struct:a_pattern	file:
+length	src/function.c	/^  size_t length;$/;"	m	struct:a_word	file:
+length	src/variable.h	/^    unsigned int length;        \/* strlen (name) *\/$/;"	m	struct:variable
+length	src/vms_progname.c	/^  unsigned short length;$/;"	m	struct:filescan_itmlst_2	file:
+lens	src/rule.h	/^    unsigned int *lens;         \/* Lengths of each target.  *\/$/;"	m	struct:rule
+library_search	src/remake.c	/^library_search (const char *lib, FILE_TIMESTAMP *mtime_ptr)$/;"	f	file:
+lindex	src/misc.c	/^lindex (const char *s, const char *limit, int c)$/;"	f
+lineno	src/gnumake.h	/^    unsigned long lineno;$/;"	m	struct:__anon4
+lineno	src/makeint.h	/^    unsigned long lineno;$/;"	m	struct:__anon7
+lines_flags	src/commands.h	/^    unsigned char *lines_flags; \/* One set of flag bits for each line.  *\/$/;"	m	struct:commands
+link	src/vms_export_symbol.c	/^  struct dcl_symbol * link;$/;"	m	struct:dcl_symbol	typeref:struct:dcl_symbol::dcl_symbol	file:
+list	src/main.c	/^    const char **list;  \/* Nil-terminated list of strings.  *\/$/;"	m	struct:stringlist	file:
+load_file	src/load.c	/^load_file (const floc *flocp, struct file *file UNUSED, int noerror)$/;"	f
+load_file	src/load.c	/^load_file (const floc *flocp, struct file *file, int noerror)$/;"	f
+load_func_t	src/makeint.h	/^typedef int (*load_func_t)(const floc *flocp);$/;"	t
+load_list	src/load.c	/^struct load_list$/;"	s	file:
+load_object	src/load.c	/^load_object (const floc *flocp, int noerror, const char *ldname,$/;"	f	file:
+load_too_high	src/job.c	/^load_too_high (void)$/;"	f	file:
+loaded	src/filedef.h	/^    unsigned int loaded:1;      \/* True if the file is a loaded object. *\/$/;"	m	struct:file
+loaded_syms	src/load.c	/^static struct load_list *loaded_syms = NULL;$/;"	v	typeref:struct:load_list	file:
+local_lstat	src/dir.c	/^local_lstat (const char *path, struct stat *buf)$/;"	f	file:
+local_lstat	src/dir.c	1344;"	d	file:
+local_lstat	src/dir.c	1347;"	d	file:
+local_stat	src/dir.c	/^local_stat (const char *path, struct stat *buf)$/;"	f	file:
+local_stat	src/dir.c	1304;"	d	file:
+log_working_directory	src/output.c	/^log_working_directory (int entering)$/;"	f	file:
+long_name	src/main.c	/^    const char *long_name;        \/* Long option name.  *\/$/;"	m	struct:command_switch	file:
+long_option_aliases	src/main.c	/^static struct option long_option_aliases[] =$/;"	v	typeref:struct:option	file:
+long_options	src/main.c	/^static struct option long_options[(sizeof (switches) \/ sizeof (switches[0])) +$/;"	v	typeref:struct:option	file:
+lookup_file	src/file.c	/^lookup_file (const char *name)$/;"	f
+lookup_function	src/function.c	/^lookup_function (const char *s)$/;"	f	file:
+lookup_pattern_var	src/variable.c	/^lookup_pattern_var (struct pattern_var *start, const char *target,$/;"	f	file:
+lookup_special_var	src/variable.c	/^lookup_special_var (struct variable *var)$/;"	f	file:
+lookup_variable	src/variable.c	/^lookup_variable (const char *name, size_t length)$/;"	f
+lookup_variable_for_file	src/variable.c	/^lookup_variable_for_file (const char *name, size_t length, struct file *file)$/;"	f
+lookup_variable_in_set	src/variable.c	/^lookup_variable_in_set (const char *name, size_t length,$/;"	f
+low_resolution_time	src/filedef.h	/^    unsigned int low_resolution_time:1; \/* Nonzero if this file's time stamp$/;"	m	struct:file
+lstat	src/dir.c	1341;"	d	file:
+main	src/arscan.c	/^main (int argc, char **argv)$/;"	f
+main	src/getopt.c	/^main (int argc, char **argv)$/;"	f
+main	src/getopt1.c	/^main (int argc, char **argv)$/;"	f
+main	src/main.c	/^main (int argc, char **argv)$/;"	f
+main	src/vms_export_symbol.c	/^main(int argc, char ** argv, char **env)$/;"	f
+main	src/vms_progname.c	/^main (int argc, char ** argv, char **env)$/;"	f
+main_thread	src/job.c	/^HANDLE main_thread;$/;"	v
+make_host	src/version.c	/^const char *make_host = MAKE_HOST;$/;"	v
+make_job_rfd	src/posixos.c	/^make_job_rfd ()$/;"	f	file:
+make_lltoa	src/misc.c	/^make_lltoa (long long val, char *buf)$/;"	f
+make_mod	src/guile.c	/^static SCM make_mod = SCM_EOL;$/;"	v	file:
+make_pid	src/misc.c	/^pid_t make_pid ()$/;"	f
+make_rand	src/misc.c	/^make_rand ()$/;"	f
+make_seed	src/misc.c	/^make_seed (unsigned int seed)$/;"	f
+make_sync	src/main.c	/^struct output make_sync;$/;"	v	typeref:struct:output
+make_toui	src/misc.c	/^make_toui (const char *str, const char **error)$/;"	f
+make_ulltoa	src/misc.c	/^make_ulltoa (unsigned long long val, char *buf)$/;"	f
+make_word_type	src/read.c	/^enum make_word_type$/;"	g	file:
+makefiles	src/main.c	/^static struct stringlist *makefiles = 0;$/;"	v	typeref:struct:stringlist	file:
+makelevel	src/main.c	/^unsigned int makelevel;$/;"	v
+master_job_slots	src/main.c	/^static unsigned int master_job_slots = 0;$/;"	v	file:
+matched	src/function.c	/^  int matched;$/;"	m	struct:a_word	file:
+matches	src/implicit.c	/^    unsigned int matches;$/;"	m	struct:tryrule	file:
+max	src/main.c	/^    unsigned int max;   \/* Number of pointers allocated.  *\/$/;"	m	struct:stringlist	file:
+max_incl_len	src/read.c	/^static size_t max_incl_len;$/;"	v	file:
+max_load_average	src/main.c	/^double max_load_average = -1.0;$/;"	v
+max_pattern_dep_length	src/rule.c	/^size_t max_pattern_dep_length;$/;"	v
+max_pattern_deps	src/rule.c	/^unsigned int max_pattern_deps;$/;"	v
+max_pattern_targets	src/rule.c	/^unsigned int max_pattern_targets;$/;"	v
+maximum_args	src/function.c	/^    unsigned char maximum_args;$/;"	m	struct:function_table_entry	file:
+maxlen	src/vpath.c	/^    size_t maxlen;           \/* Maximum length of any entry in the list.  *\/$/;"	m	struct:vpath	file:
+maxsuffix	src/rule.c	/^static size_t maxsuffix;$/;"	v	file:
+mempcpy	src/misc.c	/^mempcpy (void *dest, const void *src, size_t n)$/;"	f
+memrchr	src/misc.c	/^memrchr(const void* str, int ch, size_t len)$/;"	f
+merge_variable_set_lists	src/variable.c	/^merge_variable_set_lists (struct variable_set_list **setlist0,$/;"	f
+merge_variable_sets	src/variable.c	/^merge_variable_sets (struct variable_set *to_set,$/;"	f	file:
+message	src/output.c	/^message (int prefix, size_t len, const char *fmt, ...)$/;"	f
+minimum_args	src/function.c	/^    unsigned char minimum_args;$/;"	m	struct:function_table_entry	file:
+mk_state	src/misc.c	/^static unsigned int mk_state = 0;$/;"	v	file:
+mode	src/shuffle.c	/^    enum shuffle_mode mode;$/;"	m	struct:__anon5	typeref:enum:__anon5::shuffle_mode	file:
+mode_t	src/makeint.h	/^typedef int mode_t;$/;"	t
+msdos_openpipe	src/function.c	/^msdos_openpipe (int* pipedes, int *pidp, char *text)$/;"	f
+msdos_return_to_initial_directory	src/main.c	/^msdos_return_to_initial_directory (void)$/;"	f	file:
+mtime	src/dir.c	/^    time_t mtime;        \/* controls check for stale directory cache *\/$/;"	m	struct:directory_contents	file:
+mtime_before_update	src/filedef.h	/^    FILE_TIMESTAMP mtime_before_update; \/* File's modtime before any updating$/;"	m	struct:file
+my_index	src/getopt.c	/^my_index (const char *str, int chr)$/;"	f	file:
+my_index	src/getopt.c	192;"	d	file:
+n	src/ar.c	/^    unsigned int n;$/;"	m	struct:ar_glob_state	file:
+name	src/dir.c	/^    const char *name;           \/* Name of the directory.  *\/$/;"	m	struct:directory	file:
+name	src/dir.c	/^    const char *name;           \/* Name of the file.  *\/$/;"	m	struct:dirfile	file:
+name	src/filedef.h	/^    const char *name;$/;"	m	struct:file
+name	src/function.c	/^    const char *name;$/;"	m	struct:function_table_entry	file:
+name	src/getopt.h	/^  const char *name;$/;"	m	struct:option
+name	src/implicit.c	/^    const char *name;$/;"	m	struct:patdeps	file:
+name	src/load.c	/^    const char *name;$/;"	m	struct:load_list	file:
+name	src/variable.c	/^    const char *name;$/;"	m	struct:defined_vars	file:
+name	src/variable.h	/^    char *name;                 \/* Variable name.  *\/$/;"	m	struct:variable
+name	src/vms_export_symbol.c	/^  char name[MAX_DCL_SYMBOL_LEN + 1];    \/* + 1 byte for null terminator *\/$/;"	m	struct:dcl_symbol	file:
+name_desc	src/vms_export_symbol.c	/^  struct dsc$descriptor_s name_desc;$/;"	m	struct:dcl_symbol	typeref:struct:dcl_symbol::dsc$descriptor_s	file:
+name_mtime	src/remake.c	/^name_mtime (const char *name)$/;"	f	file:
+nameseq	src/dep.h	/^struct nameseq$/;"	s
+namestate	src/vmsify.c	/^enum namestate { N_START, N_DEVICE, N_OPEN, N_DOT, N_CLOSED, N_DONE };$/;"	g	file:
+ncommand_lines	src/commands.h	/^    unsigned short ncommand_lines;\/* Number of command lines.  *\/$/;"	m	struct:commands
+need_vms_symbol	src/vms_progname.c	/^need_vms_symbol (void)$/;"	f
+new_cache	src/strcache.c	/^new_cache (struct strcache **head, sc_buflen_t buflen)$/;"	f	file:
+new_files	src/main.c	/^static struct stringlist *new_files = 0;$/;"	v	typeref:struct:stringlist	file:
+new_job	src/job.c	/^new_job (struct file *file)$/;"	f
+new_pattern_rule	src/rule.c	/^new_pattern_rule (struct rule *rule, int override)$/;"	f	file:
+next	src/job.h	/^    struct child *next;         \/* Link in the chain.  *\/$/;"	m	struct:child	typeref:struct:child::child
+next	src/load.c	/^    struct load_list *next;$/;"	m	struct:load_list	typeref:struct:load_list::load_list	file:
+next	src/main.c	/^    struct command_variable *next;$/;"	m	struct:command_variable	typeref:struct:command_variable::command_variable	file:
+next	src/rule.h	/^    struct rule *next;$/;"	m	struct:rule	typeref:struct:rule::rule
+next	src/strcache.c	/^  struct hugestring *next;  \/* The next string.  *\/$/;"	m	struct:hugestring	typeref:struct:hugestring::hugestring	file:
+next	src/strcache.c	/^  struct strcache *next;    \/* The next block of strings.  Must be first!  *\/$/;"	m	struct:strcache	typeref:struct:strcache::strcache	file:
+next	src/variable.h	/^    struct pattern_var *next;$/;"	m	struct:pattern_var	typeref:struct:pattern_var::pattern_var
+next	src/variable.h	/^    struct variable_set_list *next;     \/* Link in the chain.  *\/$/;"	m	struct:variable_set_list	typeref:struct:variable_set_list::variable_set_list
+next	src/vpath.c	/^    struct vpath *next;      \/* Pointer to next struct in the linked list.  *\/$/;"	m	struct:vpath	typeref:struct:vpath::vpath	file:
+next_is_parent	src/variable.h	/^    int next_is_parent;                 \/* True if next is a parent target.  *\/$/;"	m	struct:variable_set_list
+next_token	src/misc.c	/^next_token (const char *s)$/;"	f
+nextchar	src/getopt.c	/^static char *nextchar;$/;"	v	file:
+ngettext	src/gettext.h	36;"	d
+no_argument	src/getopt.h	94;"	d
+no_builtin_rules_flag	src/main.c	/^int no_builtin_rules_flag = 0;$/;"	v
+no_builtin_variables_flag	src/main.c	/^int no_builtin_variables_flag = 0;$/;"	v
+no_default_sh_exe	src/job.c	/^int no_default_sh_exe = 1;$/;"	v
+no_diag	src/filedef.h	/^    unsigned int no_diag:1;     \/* True if the file failed to update and no$/;"	m	struct:file
+no_intermediates	src/main.c	/^unsigned int no_intermediates;$/;"	v
+no_makefile	src/main.c	/^    unsigned int no_makefile:1;   \/* Don't propagate when remaking makefiles. *\/$/;"	m	struct:command_switch	file:
+noarg_value	src/main.c	/^    const void *noarg_value;      \/* Pointer to value used if no arg given.  *\/$/;"	m	struct:command_switch	file:
+noerror	src/job.h	/^    unsigned int  noerror:1;    \/* Nonzero if commands contained a '-'.  *\/$/;"	m	struct:child
+nonoption_flags_len	src/getopt.c	/^static int nonoption_flags_len;$/;"	v	file:
+nonoption_flags_max_len	src/getopt.c	/^static int nonoption_flags_max_len;$/;"	v	file:
+not_parallel	src/main.c	/^int not_parallel;$/;"	v
+notice_finished_file	src/remake.c	/^notice_finished_file (struct file *file)$/;"	f
+notintermediate	src/filedef.h	/^    unsigned int notintermediate:1; \/* Nonzero means a file is a prereq to$/;"	m	struct:file
+num	src/rule.h	/^    unsigned short num;         \/* Number of targets.  *\/$/;"	m	struct:rule
+num_abbrev	src/signame.c	/^  } num_abbrev;$/;"	t	typeref:struct:__anon6	file:
+num_pattern_rules	src/rule.c	/^unsigned int num_pattern_rules;$/;"	v
+number	src/signame.c	/^    int number;$/;"	m	struct:__anon6	file:
+o_automatic	src/variable.h	/^    o_automatic,        \/* Automatic variable -- cannot be set.  *\/$/;"	e	enum:variable_origin
+o_command	src/variable.h	/^    o_command,          \/* Variable given by user.  *\/$/;"	e	enum:variable_origin
+o_default	src/variable.h	/^    o_default,          \/* Variable from the default set.  *\/$/;"	e	enum:variable_origin
+o_env	src/variable.h	/^    o_env,              \/* Variable from environment.  *\/$/;"	e	enum:variable_origin
+o_env_override	src/variable.h	/^    o_env_override,     \/* Variable from environment, if -e.  *\/$/;"	e	enum:variable_origin
+o_file	src/variable.h	/^    o_file,             \/* Variable given in a makefile.  *\/$/;"	e	enum:variable_origin
+o_invalid	src/variable.h	/^    o_invalid           \/* Core dump time.  *\/$/;"	e	enum:variable_origin
+o_override	src/variable.h	/^    o_override,         \/* Variable from an 'override' directive.  *\/$/;"	e	enum:variable_origin
+obj_to_str	src/guile.c	/^static SCM obj_to_str = SCM_EOL;$/;"	v	file:
+offset	src/makeint.h	/^    unsigned long offset;$/;"	m	struct:__anon7
+old_files	src/main.c	/^static struct stringlist *old_files = 0;$/;"	v	typeref:struct:stringlist	file:
+one_shell	src/main.c	/^int one_shell;$/;"	v
+open_directories	src/dir.c	/^static unsigned int open_directories = 0;$/;"	v	file:
+open_dirstream	src/dir.c	/^open_dirstream (const char *directory)$/;"	f	file:
+opendir	src/vmsfunctions.c	/^opendir (char *dspec)$/;"	f
+optarg	src/getopt.c	/^char *optarg = NULL;$/;"	v
+opterr	src/getopt.c	/^int opterr = 1;$/;"	v
+optind	src/getopt.c	/^int optind = 1;$/;"	v
+option	src/getopt.h	/^struct option$/;"	s
+optional_argument	src/getopt.h	96;"	d
+options	src/main.c	/^static char options[1 + sizeof (switches) \/ sizeof (switches[0]) * 3];$/;"	v	file:
+optopt	src/getopt.c	/^int optopt = '?';$/;"	v
+order	src/implicit.c	/^    unsigned int order;$/;"	m	struct:tryrule	file:
+ordering	src/getopt.c	/^} ordering;$/;"	v	typeref:enum:__anon3	file:
+origin	src/main.c	/^    enum variable_origin *origin; \/* Origin of the value.  *\/$/;"	m	struct:command_switch	typeref:enum:command_switch::variable_origin	file:
+original_argc	src/getopt.c	/^static int original_argc;$/;"	v	file:
+original_argv	src/getopt.c	/^static char *const *original_argv;$/;"	v	file:
+os_anontmp	src/os.h	28;"	d
+os_anontmp	src/posixos.c	/^os_anontmp ()$/;"	f
+osync_acquire	src/os.h	148;"	d
+osync_acquire	src/posixos.c	/^osync_acquire ()$/;"	f
+osync_clear	src/os.h	147;"	d
+osync_clear	src/posixos.c	/^osync_clear ()$/;"	f
+osync_enabled	src/os.h	143;"	d
+osync_enabled	src/posixos.c	/^osync_enabled ()$/;"	f
+osync_get_mutex	src/os.h	145;"	d
+osync_get_mutex	src/posixos.c	/^osync_get_mutex ()$/;"	f
+osync_handle	src/posixos.c	/^static int osync_handle = -1;$/;"	v	file:
+osync_parse_mutex	src/os.h	146;"	d
+osync_parse_mutex	src/posixos.c	/^osync_parse_mutex (const char *mutex)$/;"	f
+osync_release	src/os.h	149;"	d
+osync_release	src/posixos.c	/^osync_release ()$/;"	f
+osync_setup	src/os.h	144;"	d
+osync_setup	src/posixos.c	/^osync_setup ()$/;"	f
+osync_tmpfile	src/posixos.c	/^static char *osync_tmpfile = NULL;$/;"	v	file:
+out	src/output.h	/^    int out;$/;"	m	struct:output
+out_of_memory	src/output.c	/^out_of_memory ()$/;"	f
+output	src/output.h	/^struct output$/;"	s
+output_close	src/output.c	/^output_close (struct output *out)$/;"	f
+output_context	src/output.c	/^struct output *output_context = NULL;$/;"	v	typeref:struct:output
+output_dump	src/output.c	/^output_dump (struct output *out)$/;"	f
+output_dump	src/output.h	54;"	d
+output_init	src/output.c	/^output_init (struct output *out)$/;"	f
+output_start	src/output.c	/^output_start (void)$/;"	f
+output_sync	src/main.c	/^int output_sync = OUTPUT_SYNC_NONE;$/;"	v
+output_sync_option	src/main.c	/^char *output_sync_option = 0;$/;"	v
+output_tmpfd	src/output.c	/^output_tmpfd (void)$/;"	f
+outputs	src/output.c	/^outputs (int is_err, const char *msg)$/;"	f
+override_v	src/read.c	/^    unsigned int override_v:1;$/;"	m	struct:vmodifiers	file:
+pad	src/vms_export_symbol.c	/^  char pad[3]; \/* Pad structure to longword alignment *\/$/;"	m	struct:dcl_symbol	file:
+parent	src/filedef.h	/^    struct file *parent;$/;"	m	struct:file	typeref:struct:file::file
+parse_file_seq	src/read.c	/^parse_file_seq (char **stringp, size_t size, int stopmap,$/;"	f
+parse_int	src/arscan.c	/^parse_int (const char *ptr, const size_t len, const int base, uintmax_t max,$/;"	f	file:
+parse_numeric	src/function.c	/^parse_numeric (const char *s, const char *msg)$/;"	f	file:
+parse_textint	src/function.c	/^parse_textint (const char *number, const char *msg,$/;"	f	file:
+parse_var_assignment	src/read.c	/^parse_var_assignment (const char *line, int targvar, struct vmodifiers *vmod)$/;"	f	file:
+parse_variable_definition	src/variable.c	/^parse_variable_definition (const char *str, struct variable *var)$/;"	f
+pat_searched	src/filedef.h	/^    unsigned int pat_searched:1;\/* Nonzero if we already searched for$/;"	m	struct:file
+pat_variables	src/filedef.h	/^    struct variable_set_list *pat_variables;$/;"	m	struct:file	typeref:struct:file::variable_set_list
+patdeps	src/implicit.c	/^struct patdeps$/;"	s	file:
+path_key	src/dir.c	/^    char *path_key;$/;"	m	struct:directory_contents	file:
+patheq	src/makeint.h	334;"	d
+patheq	src/makeint.h	339;"	d
+patlen	src/vpath.c	/^    size_t patlen;           \/* Length of the pattern.  *\/$/;"	m	struct:vpath	file:
+patsubst_expand	src/function.c	/^patsubst_expand (char *o, const char *text, char *pattern, char *replace)$/;"	f
+patsubst_expand_pat	src/function.c	/^patsubst_expand_pat (char *o, const char *text,$/;"	f
+pattern	src/ar.c	/^    const char *pattern;$/;"	m	struct:ar_glob_state	file:
+pattern	src/implicit.c	/^    const char *pattern;$/;"	m	struct:patdeps	file:
+pattern	src/vpath.c	/^    const char *pattern;     \/* The pattern to match.  *\/$/;"	m	struct:vpath	file:
+pattern_matches	src/function.c	/^pattern_matches (const char *pattern, const char *percent, const char *str)$/;"	f
+pattern_rules	src/rule.c	/^struct rule *pattern_rules;$/;"	v	typeref:struct:rule
+pattern_search	src/implicit.c	/^pattern_search (struct file *file, int archive,$/;"	f	file:
+pattern_var	src/variable.h	/^struct pattern_var$/;"	s
+pattern_vars	src/variable.c	/^static struct pattern_var *pattern_vars = NULL;$/;"	v	typeref:struct:pattern_var	file:
+per_target	src/variable.h	/^    unsigned int per_target:1;  \/* Nonzero if a target-specific variable.  *\/$/;"	m	struct:variable
+percent	src/function.c	/^  char *percent;$/;"	m	struct:a_pattern	file:
+percent	src/vpath.c	/^    const char *percent;     \/* Pointer into 'pattern' where the '%' is.  *\/$/;"	m	struct:vpath	file:
+perror_with_name	src/output.c	/^perror_with_name (const char *str, const char *name)$/;"	f
+pfatal_with_name	src/output.c	/^pfatal_with_name (const char *name)$/;"	f
+phony	src/filedef.h	/^    unsigned int phony:1;       \/* Nonzero if this is a phony file$/;"	m	struct:file
+pid	src/job.h	/^    pid_t pid;                  \/* Child process's ID number.  *\/$/;"	m	struct:child
+pid2str	src/job.c	/^pid2str (pid_t pid)$/;"	f	file:
+pipe	src/makeint.h	372;"	d
+pop_variable_scope	src/variable.c	/^pop_variable_scope (void)$/;"	f
+positive_int	src/main.c	/^        positive_int,             \/* A positive integer.  *\/$/;"	e	enum:command_switch::__anon1	file:
+posix_pedantic	src/main.c	/^int posix_pedantic;$/;"	v
+posixly_correct	src/getopt.c	/^static char *posixly_correct;$/;"	v	file:
+precious	src/filedef.h	/^    unsigned int precious:1;    \/* Non-0 means don't delete file on quit *\/$/;"	m	struct:file
+prev	src/filedef.h	/^    struct file *prev;          \/* Previous entry for same file name;$/;"	m	struct:file	typeref:struct:file::file
+print_auto_variable	src/variable.c	/^print_auto_variable (const void *item, void *arg)$/;"	f	file:
+print_commands	src/commands.c	/^print_commands (const struct commands *cmds)$/;"	f
+print_data_base	src/main.c	/^print_data_base (void)$/;"	f	file:
+print_data_base_flag	src/main.c	/^int print_data_base_flag = 0;$/;"	v
+print_dir_data_base	src/dir.c	/^print_dir_data_base (void)$/;"	f
+print_directory_flag	src/main.c	/^static int print_directory_flag = -1;$/;"	v	file:
+print_directory_origin	src/main.c	/^static enum variable_origin print_directory_origin = o_default;$/;"	v	typeref:enum:variable_origin	file:
+print_file	src/file.c	/^print_file (const void *item)$/;"	f	file:
+print_file_data_base	src/file.c	/^print_file_data_base (void)$/;"	f
+print_file_variables	src/variable.c	/^print_file_variables (const struct file *file)$/;"	f
+print_noauto_variable	src/variable.c	/^print_noauto_variable (const void *item, void *arg)$/;"	f	file:
+print_prereqs	src/file.c	/^print_prereqs (const struct dep *deps)$/;"	f
+print_rule	src/rule.c	/^print_rule (struct rule *r)$/;"	f	file:
+print_rule_data_base	src/rule.c	/^print_rule_data_base (void)$/;"	f
+print_spaces	src/misc.c	/^print_spaces (unsigned int n)$/;"	f
+print_target_variables	src/variable.c	/^print_target_variables (const struct file *file)$/;"	f
+print_usage	src/main.c	/^print_usage (int bad)$/;"	f	file:
+print_usage_flag	src/main.c	/^static int print_usage_flag = 0;$/;"	v	file:
+print_variable	src/variable.c	/^print_variable (const void *item, void *arg)$/;"	f	file:
+print_variable_data_base	src/variable.c	/^print_variable_data_base (void)$/;"	f
+print_variable_set	src/variable.c	/^print_variable_set (struct variable_set *set, const char *prefix, int pauto)$/;"	f	file:
+print_version	src/main.c	/^print_version (void)$/;"	f	file:
+print_version_flag	src/main.c	/^int print_version_flag = 0;$/;"	v
+print_vpath_data_base	src/vpath.c	/^print_vpath_data_base (void)$/;"	f
+private_v	src/read.c	/^    unsigned int private_v:1;$/;"	m	struct:vmodifiers	file:
+private_var	src/variable.h	/^    unsigned int private_var:1; \/* Nonzero avoids inheritance of this$/;"	m	struct:variable
+program	src/main.c	/^const char *program;$/;"	v
+program_name	src/vms_progname.c	/^const char *program_name = NULL;$/;"	v
+pspec	src/rule.h	/^struct pspec$/;"	s
+pump_from_tmp	src/output.c	/^pump_from_tmp (int from, FILE *to)$/;"	f	file:
+push_new_variable_scope	src/variable.c	/^push_new_variable_scope (void)$/;"	f
+qsort_cmp_t	src/hash.h	/^typedef int (*qsort_cmp_t) __P((void const *, void const *));$/;"	t
+question_flag	src/main.c	/^int question_flag = 0;$/;"	v
+quote_for_env	src/main.c	/^quote_for_env (char *out, const char *in)$/;"	f	file:
+random_shuffle_array	src/shuffle.c	/^random_shuffle_array (void **a, size_t len)$/;"	f	file:
+read_all_makefiles	src/read.c	/^read_all_makefiles (const char **makefiles)$/;"	f
+read_dirstream	src/dir.c	/^read_dirstream (void *stream)$/;"	f	file:
+read_files	src/read.c	/^static struct goaldep *read_files = 0;$/;"	v	typeref:struct:goaldep	file:
+readbuf	src/misc.c	/^readbuf (int fd, void *buffer, size_t len)$/;"	f
+readdir	src/vmsfunctions.c	/^readdir (DIR *dir)$/;"	f
+reading_file	src/read.c	/^const floc *reading_file = 0;$/;"	v
+readline	src/read.c	/^readline (struct ebuffer *ebuf)$/;"	f	file:
+readstring	src/read.c	/^readstring (struct ebuffer *ebuf)$/;"	f	file:
+reap_children	src/job.c	/^reap_children (int block, int err)$/;"	f
+rebuilding_makefiles	src/main.c	/^int rebuilding_makefiles = 0;$/;"	v
+recipe_prefix	src/commands.h	/^    char recipe_prefix;         \/* Recipe prefix for this command set.  *\/$/;"	m	struct:commands
+record_files	src/read.c	/^record_files (struct nameseq *filenames, int are_also_makes,$/;"	f	file:
+record_target_var	src/read.c	/^record_target_var (struct nameseq *filenames, char *defn,$/;"	f	file:
+record_waiting_files	src/read.c	591;"	d	file:
+recursive	src/job.h	/^    unsigned int  recursive:1;  \/* Nonzero for recursive command ('+' etc.)  *\/$/;"	m	struct:child
+recursive	src/variable.h	/^    unsigned int recursive:1;   \/* Gets recursively re-evaluated.  *\/$/;"	m	struct:variable
+recursively_expand	src/variable.h	155;"	d
+recursively_expand_for_file	src/expand.c	/^recursively_expand_for_file (struct variable *v, struct file *file)$/;"	f
+reference_variable	src/expand.c	/^reference_variable (char *o, const char *name, size_t length)$/;"	f	file:
+rehash_file	src/file.c	/^rehash_file (struct file *from_file, const char *to_hname)$/;"	f
+remake_file	src/remake.c	/^remake_file (struct file *file)$/;"	f	file:
+remote	src/job.h	/^    unsigned int  remote:1;     \/* Nonzero if executing remotely.  *\/$/;"	m	struct:child
+remote_cleanup	src/remote-stub.c	/^remote_cleanup (void)$/;"	f
+remote_description	src/remote-stub.c	/^char *remote_description = 0;$/;"	v
+remote_kill	src/remote-stub.c	/^remote_kill (pid_t id UNUSED, int sig UNUSED)$/;"	f
+remote_setup	src/remote-stub.c	/^remote_setup (void)$/;"	f
+remote_status	src/remote-stub.c	/^remote_status (int *exit_code_ptr UNUSED, int *signal_ptr UNUSED,$/;"	f
+remove_comments	src/read.c	/^remove_comments (char *line)$/;"	f	file:
+remove_intermediates	src/file.c	/^remove_intermediates (int sig)$/;"	f
+rename_file	src/file.c	/^rename_file (struct file *from_file, const char *to_hname)$/;"	f
+renamed	src/filedef.h	/^    struct file *renamed;$/;"	m	struct:file	typeref:struct:file::file
+required_argument	src/getopt.h	95;"	d
+reset_jobserver	src/main.c	/^reset_jobserver (void)$/;"	f	file:
+reset_makeflags	src/main.c	/^reset_makeflags (enum variable_origin origin)$/;"	f
+restore_conditionals	src/read.c	/^restore_conditionals (struct conditionals *saved)$/;"	f	file:
+restore_variable_buffer	src/expand.c	/^restore_variable_buffer (char *buf, size_t len)$/;"	f
+retlen	src/vms_export_symbol.c	/^  unsigned short * retlen;$/;"	m	struct:item_list_3	file:
+retlen	src/vms_progname.c	/^  unsigned short * retlen;$/;"	m	struct:item_list_3	file:
+return_ADDRESS_COMPARE	src/hash.h	232;"	d
+return_ADDRESS_HASH_1	src/hash.h	230;"	d
+return_ADDRESS_HASH_2	src/hash.h	231;"	d
+return_INTEGER_COMPARE	src/hash.h	219;"	d
+return_INTEGER_HASH_1	src/hash.h	201;"	d
+return_INTEGER_HASH_2	src/hash.h	210;"	d
+return_ISTRING_COMPARE	src/hash.h	179;"	d
+return_ISTRING_COMPARE	src/hash.h	192;"	d
+return_ISTRING_HASH_1	src/hash.h	159;"	d
+return_ISTRING_HASH_1	src/hash.h	186;"	d
+return_ISTRING_HASH_2	src/hash.h	170;"	d
+return_ISTRING_HASH_2	src/hash.h	189;"	d
+return_STRING_COMPARE	src/hash.h	113;"	d
+return_STRING_HASH_1	src/hash.h	92;"	d
+return_STRING_HASH_2	src/hash.h	104;"	d
+return_STRING_N_COMPARE	src/hash.h	146;"	d
+return_STRING_N_HASH_1	src/hash.h	123;"	d
+return_STRING_N_HASH_2	src/hash.h	137;"	d
+reverse_shuffle_array	src/shuffle.c	/^reverse_shuffle_array (void **a, size_t len)$/;"	f	file:
+rewinddir	src/vmsdir.h	69;"	d
+rol32	src/hash.c	332;"	d	file:
+round_up_2	src/hash.c	/^round_up_2 (unsigned long n)$/;"	f	file:
+rule	src/implicit.c	/^    struct rule *rule;$/;"	m	struct:tryrule	typeref:struct:tryrule::rule	file:
+rule	src/rule.h	/^struct rule$/;"	s
+run_silent	src/main.c	/^int run_silent = 0;$/;"	v
+sc_buflen_t	src/strcache.c	/^typedef unsigned short int sc_buflen_t;$/;"	t	file:
+searchpath	src/vpath.c	/^    const char **searchpath; \/* Null-terminated list of directories.  *\/$/;"	m	struct:vpath	file:
+second_expansion	src/main.c	/^int second_expansion;$/;"	v
+secondary	src/filedef.h	/^    unsigned int secondary:1;   \/* Nonzero means remove_intermediates should$/;"	m	struct:file
+seed	src/shuffle.c	/^    unsigned int seed;$/;"	m	struct:__anon5	file:
+seen_else	src/read.c	/^    char *seen_else;            \/* Have we already seen an 'else'?  *\/$/;"	m	struct:conditionals	file:
+selective_vpath_search	src/vpath.c	/^selective_vpath_search (struct vpath *path, const char *file,$/;"	f	file:
+set	src/variable.h	/^    struct variable_set *set;           \/* Variable set.  *\/$/;"	m	struct:variable_set_list	typeref:struct:variable_set_list::variable_set
+set_blocking	src/posixos.c	/^set_blocking (int fd, int blocking)$/;"	f	file:
+set_child_handler_action_flags	src/posixos.c	/^set_child_handler_action_flags (int set_handler, int set_alarm)$/;"	f	file:
+set_command_state	src/file.c	/^set_command_state (struct file *file, enum cmd_state state)$/;"	f
+set_default_suffixes	src/default.c	/^set_default_suffixes (void)$/;"	f
+set_file_variables	src/commands.c	/^set_file_variables (struct file *file, const char *stem)$/;"	f
+set_program_name	src/vms_progname.c	/^set_program_name (const char *argv0)$/;"	f
+set_special_var	src/variable.c	/^set_special_var (struct variable *var, enum variable_origin origin)$/;"	f	file:
+setlocale	src/makeint.h	355;"	d
+setup_tmpfile	src/output.c	/^setup_tmpfile (struct output *out)$/;"	f	file:
+sh_batch_file	src/job.h	/^    char *sh_batch_file;        \/* Script file for shell commands *\/$/;"	m	struct:child
+shell_completed	src/function.c	/^shell_completed (int exit_code, int exit_sig)$/;"	f
+shell_function_completed	src/function.c	/^static int shell_function_completed;$/;"	v	file:
+shell_function_pid	src/function.c	/^pid_t shell_function_pid = 0;$/;"	v
+shell_result	src/variable.c	/^shell_result (const char *p)$/;"	f	file:
+shell_var	src/main.c	/^struct variable shell_var;$/;"	v	typeref:struct:variable
+short_option	src/main.c	115;"	d	file:
+should_export	src/variable.c	/^should_export (const struct variable *v)$/;"	f	file:
+should_print_dir	src/main.c	/^should_print_dir (void)$/;"	f
+show_goal_error	src/remake.c	/^show_goal_error (void)$/;"	f
+showall	src/vmsify.c	/^showall (char *s)$/;"	f	file:
+shuffle_deps	src/shuffle.c	/^shuffle_deps (struct dep *deps)$/;"	f	file:
+shuffle_deps_recursive	src/shuffle.c	/^shuffle_deps_recursive (struct dep *deps)$/;"	f
+shuffle_file_deps_recursive	src/shuffle.c	/^shuffle_file_deps_recursive (struct file *f)$/;"	f	file:
+shuffle_get_mode	src/shuffle.c	/^shuffle_get_mode ()$/;"	f
+shuffle_goaldeps_recursive	src/shuffle.h	24;"	d
+shuffle_mode	src/main.c	/^static char *shuffle_mode = NULL;$/;"	v	file:
+shuffle_mode	src/shuffle.c	/^enum shuffle_mode$/;"	g	file:
+shuffle_set_mode	src/shuffle.c	/^shuffle_set_mode (const char *cmdarg)$/;"	f
+shuffler	src/shuffle.c	/^    void (*shuffler) (void **a, size_t len);$/;"	m	struct:__anon5	file:
+sig_table	src/signame.c	/^static num_abbrev sig_table[SIG_TABLE_SIZE];$/;"	v	file:
+sig_table_nelts	src/signame.c	/^static int sig_table_nelts = 0;$/;"	v	file:
+sigmask	src/makeint.h	124;"	d
+signal	src/makeint.h	55;"	d
+signame_init	src/signame.c	/^signame_init (void)$/;"	f	file:
+silent_flag	src/main.c	/^static int silent_flag;$/;"	v	file:
+silent_origin	src/main.c	/^static enum variable_origin silent_origin = o_default;$/;"	v	typeref:enum:variable_origin	file:
+size	src/ar.c	/^    size_t size;$/;"	m	struct:ar_glob_state	file:
+size	src/output.c	/^    size_t size;$/;"	m	struct:fmtstring	file:
+size	src/read.c	/^    size_t size;        \/* Malloc'd size of buffer. *\/$/;"	m	struct:ebuffer	file:
+sm_identity	src/shuffle.c	/^    sm_identity,$/;"	e	enum:shuffle_mode	file:
+sm_none	src/shuffle.c	/^    sm_none,$/;"	e	enum:shuffle_mode	file:
+sm_random	src/shuffle.c	/^    sm_random,$/;"	e	enum:shuffle_mode	file:
+sm_reverse	src/shuffle.c	/^    sm_reverse,$/;"	e	enum:shuffle_mode	file:
+snap_deps	src/file.c	/^snap_deps (void)$/;"	f
+snap_file	src/file.c	/^snap_file (const void *item, void *arg)$/;"	f	file:
+snap_implicit_rules	src/rule.c	/^snap_implicit_rules (void)$/;"	f
+snapped	src/filedef.h	/^    unsigned int snapped:1;     \/* True if the deps of this file have been$/;"	m	struct:file
+snapped_deps	src/file.c	/^int snapped_deps = 0;$/;"	v
+special	src/variable.h	/^    unsigned int special:1;     \/* Nonzero if this is a special variable.  *\/$/;"	m	struct:variable
+specified	src/main.c	/^    unsigned int specified:1;     \/* Set if the switch was specified somewhere.$/;"	m	struct:command_switch	file:
+spin	src/misc.c	/^spin (const char* type)$/;"	f
+split_prereqs	src/file.c	/^split_prereqs (char *p)$/;"	f
+stack_limit	src/main.c	/^struct rlimit stack_limit;$/;"	v	typeref:struct:rlimit
+start_job_command	src/job.c	/^start_job_command (struct child *child)$/;"	f	file:
+start_remote_job	src/remote-stub.c	/^start_remote_job (char **argv UNUSED, char **envp UNUSED, int stdin_fd UNUSED,$/;"	f
+start_remote_job_p	src/remote-stub.c	/^start_remote_job_p (int first_p UNUSED)$/;"	f
+start_updating	src/remake.c	53;"	d	file:
+start_waiting_job	src/job.c	/^start_waiting_job (struct child *c)$/;"	f	file:
+start_waiting_jobs	src/job.c	/^start_waiting_jobs (void)$/;"	f
+starting_directory	src/main.c	/^char *starting_directory;$/;"	v
+stat	src/dir.c	1301;"	d	file:
+stat	src/dir.c	231;"	d	file:
+stdin_offset	src/main.c	/^static int stdin_offset = -1;$/;"	v	file:
+stdio_traced	src/output.c	/^unsigned int stdio_traced = 0;$/;"	v
+stem	src/filedef.h	/^    const char *stem;           \/* Implicit stem, if an implicit$/;"	m	struct:file
+stemlen	src/implicit.c	/^    size_t stemlen;$/;"	m	struct:tryrule	file:
+stemlen_compare	src/implicit.c	/^stemlen_compare (const void *v1, const void *v2)$/;"	f
+stopchar_map	src/main.c	/^unsigned short stopchar_map[UCHAR_MAX + 1] = {0};$/;"	v
+store_args_and_env	src/getopt.c	/^store_args_and_env (int argc, char *const *argv)$/;"	f	file:
+stpcpy	src/misc.c	/^stpcpy (char *dest, const char *src)$/;"	f
+str	src/function.c	/^  char *str;$/;"	m	struct:a_pattern	file:
+str	src/function.c	/^  char *str;$/;"	m	struct:a_word	file:
+str_hash_1	src/strcache.c	/^str_hash_1 (const void *key)$/;"	f	file:
+str_hash_2	src/strcache.c	/^str_hash_2 (const void *key)$/;"	f	file:
+str_hash_cmp	src/strcache.c	/^str_hash_cmp (const void *x, const void *y)$/;"	f	file:
+strcache	src/strcache.c	/^static struct strcache *strcache = NULL;$/;"	v	typeref:struct:strcache	file:
+strcache	src/strcache.c	/^struct strcache {$/;"	s	file:
+strcache_add	src/strcache.c	/^strcache_add (const char *str)$/;"	f
+strcache_add_len	src/strcache.c	/^strcache_add_len (const char *str, size_t len)$/;"	f
+strcache_init	src/strcache.c	/^strcache_init (void)$/;"	f
+strcache_iscached	src/strcache.c	/^strcache_iscached (const char *str)$/;"	f
+strcache_print_stats	src/strcache.c	/^strcache_print_stats (const char *prefix)$/;"	f
+strcasecmp	src/makeint.h	702;"	d
+strcasecmp	src/makeint.h	704;"	d
+strcasecmp	src/misc.c	/^strcasecmp (const char *s1, const char *s2)$/;"	f
+streq	src/makeint.h	326;"	d
+strerror	src/makeint.h	270;"	d
+strerror	src/misc.c	/^strerror (int errnum)$/;"	f
+string	src/main.c	/^        string,                   \/* One string per invocation.  *\/$/;"	e	enum:command_switch::__anon1	file:
+string_glob	src/function.c	/^string_glob (char *line)$/;"	f	file:
+stringlist	src/main.c	/^struct stringlist$/;"	s	file:
+strings	src/strcache.c	/^static struct hash_table strings;$/;"	v	typeref:struct:hash_table	file:
+strip_whitespace	src/function.c	/^strip_whitespace (const char **begpp, const char **endpp)$/;"	f
+strlist	src/main.c	/^        strlist,                  \/* One string per switch.  *\/$/;"	e	enum:command_switch::__anon1	file:
+strncasecmp	src/makeint.h	710;"	d
+strncasecmp	src/makeint.h	712;"	d
+strncasecmp	src/misc.c	/^strncasecmp (const char *s1, const char *s2, size_t n)$/;"	f
+strneq	src/makeint.h	342;"	d
+strsignal	src/job.c	67;"	d	file:
+strsignal	src/signame.c	/^strsignal (int sig)$/;"	f
+strval	src/shuffle.c	/^    char strval[INTSTR_LENGTH + 1];$/;"	m	struct:__anon5	file:
+subst_expand	src/function.c	/^subst_expand (char *o, const char *text, const char *subst, const char *replace,$/;"	f
+suffix	src/ar.c	/^    char *suffix;$/;"	m	struct:ar_glob_state	file:
+suffix	src/variable.h	/^    const char *suffix;$/;"	m	struct:pattern_var
+suffix_file	src/rule.c	/^struct file *suffix_file;$/;"	v	typeref:struct:file
+suffixes	src/rule.h	/^    const char **suffixes;      \/* Suffixes (after '%') of each target.  *\/$/;"	m	struct:rule
+sum_get_unaligned_32	src/hash.c	361;"	d	file:
+sum_up_to_nul	src/hash.c	418;"	d	file:
+sum_up_to_nul	src/hash.c	440;"	d	file:
+switches	src/main.c	/^static struct command_switch switches[] =$/;"	v	typeref:struct:command_switch	file:
+sync_Path_environment	src/variable.c	/^sync_Path_environment ()$/;"	f
+sync_mutex	src/main.c	/^static char *sync_mutex = NULL;$/;"	v	file:
+sync_root	src/posixos.c	/^static unsigned int sync_root = 0;$/;"	v	file:
+syncout	src/output.h	/^    unsigned int syncout:1;     \/* True if we want to synchronize output.  *\/$/;"	m	struct:output
+sys_siglist	src/signame.c	/^static const char *sys_siglist[NSIG];$/;"	v	file:
+sys_siglist	src/signame.c	236;"	d	file:
+table	src/variable.h	/^    struct hash_table table;    \/* Hash table of variables.  *\/$/;"	m	struct:variable_set	typeref:struct:variable_set::hash_table
+target	src/rule.h	/^    const char *target, *dep, *commands;$/;"	m	struct:pspec
+target	src/variable.h	/^    const char *target;$/;"	m	struct:pattern_var
+target_environment	src/variable.c	/^target_environment (struct file *file, int recursive)$/;"	f
+targets	src/rule.h	/^    const char **targets;       \/* Targets of the rule.  *\/$/;"	m	struct:rule
+temp_stdin_unlink	src/main.c	/^temp_stdin_unlink ()$/;"	f
+terminal	src/rule.h	/^    char terminal;              \/* If terminal (double-colon).  *\/$/;"	m	struct:rule
+textdomain	src/gettext.h	42;"	d
+tilde_expand	src/read.c	/^tilde_expand (const char *name)$/;"	f
+to_vms_action	src/vms_export_symbol.c	/^to_vms_action (char * vms_spec, int flag, char * transpath_parm)$/;"	f	file:
+toenv	src/main.c	/^    unsigned int toenv:1;         \/* Should be put in MAKEFLAGS.  *\/$/;"	m	struct:command_switch	file:
+token	src/posixos.c	/^static char token = '+';$/;"	v	file:
+toplevel_conditionals	src/read.c	/^static struct conditionals toplevel_conditionals;$/;"	v	typeref:struct:conditionals	file:
+total_adds	src/strcache.c	/^static unsigned long total_adds = 0;$/;"	v	file:
+total_buffers	src/strcache.c	/^static unsigned long total_buffers = 0;$/;"	v	file:
+total_size	src/strcache.c	/^static unsigned long total_size = 0;$/;"	v	file:
+total_strings	src/strcache.c	/^static unsigned long total_strings = 0;$/;"	v	file:
+touch_file	src/remake.c	/^touch_file (struct file *file)$/;"	f	file:
+touch_flag	src/main.c	/^int touch_flag;$/;"	v
+trace_flag	src/main.c	/^static int trace_flag = 0;$/;"	v	file:
+transpath	src/vms_export_symbol.c	/^static char transpath[MAX_DCL_SYMBOL_VALUE];$/;"	v	file:
+transpath_parm	src/vms_export_symbol.c	347;"	d	file:
+tried_implicit	src/filedef.h	/^    unsigned int tried_implicit:1; \/* Nonzero if have searched$/;"	m	struct:file
+trnlog	src/vmsify.c	/^trnlog (const char *name)$/;"	f	file:
+try_implicit_rule	src/implicit.c	/^try_implicit_rule (struct file *file, unsigned int depth)$/;"	f
+try_variable_definition	src/variable.c	/^try_variable_definition (const floc *flocp, const char *line,$/;"	f
+tryrule	src/implicit.c	/^struct tryrule$/;"	s	file:
+ttyname	src/misc.c	/^char *ttyname (int fd)$/;"	f
+type	src/dir.c	/^    unsigned char type;$/;"	m	struct:dirfile	file:
+type	src/main.c	/^      } type;$/;"	m	struct:command_switch	typeref:enum:command_switch::__anon1	file:
+u_long	src/vmsdir.h	/^typedef unsigned long u_long;$/;"	t
+u_short	src/vmsdir.h	/^typedef unsigned short u_short;$/;"	t
+umask	src/misc.c	/^umask (mode_t mask)$/;"	f
+unblock_all_sigs	src/job.c	/^unblock_all_sigs ()$/;"	f
+unblock_remote_children	src/remote-stub.c	/^unblock_remote_children (void)$/;"	f
+unblock_sigs	src/job.c	/^unblock_sigs ()$/;"	f	file:
+unblock_sigs	src/job.c	519;"	d	file:
+undefine_default_variables	src/default.c	/^undefine_default_variables (void)$/;"	f
+undefine_v	src/read.c	/^    unsigned int undefine_v:1;$/;"	m	struct:vmodifiers	file:
+undefine_variable_global	src/variable.h	232;"	d
+undefine_variable_in_set	src/variable.c	/^undefine_variable_in_set (const char *name, size_t length,$/;"	f
+undoc	src/signame.c	/^static const char *undoc;$/;"	v	file:
+unescape_char	src/read.c	/^unescape_char (char *string, int c)$/;"	f	file:
+unixify	src/vmsify.c	/^unixify (const char *name)$/;"	f
+unixy_shell	src/job.c	/^int unixy_shell = 1;$/;"	v
+unload_file	src/load.c	/^unload_file (const char *name UNUSED)$/;"	f
+unload_file	src/load.c	/^unload_file (const char *name)$/;"	f
+unloaded	src/filedef.h	/^    unsigned int unloaded:1;    \/* True if this loaded object was unloaded. *\/$/;"	m	struct:file
+update_file	src/remake.c	/^update_file (struct file *file, unsigned int depth)$/;"	f	file:
+update_file_1	src/remake.c	/^update_file_1 (struct file *file, unsigned int depth)$/;"	f	file:
+update_goal_chain	src/remake.c	/^update_goal_chain (struct goaldep *goaldeps)$/;"	f
+update_status	src/filedef.h	/^    enum update_status          \/* Status of the last attempt to update.  *\/$/;"	g	struct:file
+updated	src/filedef.h	/^    unsigned int updated:1;     \/* Nonzero if this file has been remade.  *\/$/;"	m	struct:file
+updating	src/filedef.h	/^    unsigned int updating:1;    \/* Nonzero while updating deps of this file *\/$/;"	m	struct:file
+uppercasify	src/vmsfunctions.c	64;"	d	file:
+us_failed	src/filedef.h	/^        us_failed               \/* Update failed.  *\/$/;"	e	enum:file::update_status
+us_none	src/filedef.h	/^        us_none,                \/* No attempt to update has been made.  *\/$/;"	e	enum:file::update_status
+us_question	src/filedef.h	/^        us_question,            \/* Needs to be updated (-q is is set).  *\/$/;"	e	enum:file::update_status
+us_success	src/filedef.h	/^        us_success = 0,         \/* Successfully updated.  Must be 0!  *\/$/;"	e	enum:file::update_status
+usage	src/main.c	/^static const char *const usage[] =$/;"	v	file:
+v_default	src/variable.h	/^    v_default = 0,      \/* Decide in target_environment.  *\/$/;"	e	enum:variable_export
+v_export	src/variable.h	/^    v_export,           \/* Export this variable.  *\/$/;"	e	enum:variable_export
+v_ifset	src/variable.h	/^    v_ifset             \/* Export it if it has a non-default value.  *\/$/;"	e	enum:variable_export
+v_noexport	src/variable.h	/^    v_noexport,         \/* Don't export this variable.  *\/$/;"	e	enum:variable_export
+val	src/getopt.h	/^  int val;$/;"	m	struct:option
+value	src/variable.h	/^    char *value;                \/* Variable value.  *\/$/;"	m	struct:variable
+value	src/vms_export_symbol.c	/^  char value[MAX_DCL_SYMBOL_VALUE +1];  \/* + 1 byte for null terminator *\/$/;"	m	struct:dcl_symbol	file:
+value_desc	src/vms_export_symbol.c	/^  struct dsc$descriptor_s value_desc;$/;"	m	struct:dcl_symbol	typeref:struct:dcl_symbol::dsc$descriptor_s	file:
+value_ptr	src/main.c	/^    void *value_ptr;              \/* Pointer to the value-holding variable.  *\/$/;"	m	struct:command_switch	file:
+variable	src/main.c	/^    struct variable *variable;$/;"	m	struct:command_variable	typeref:struct:command_variable::variable	file:
+variable	src/variable.h	/^    struct variable variable;$/;"	m	struct:pattern_var	typeref:struct:pattern_var::variable
+variable	src/variable.h	/^struct variable$/;"	s
+variable_append	src/expand.c	/^variable_append (const char *name, size_t length,$/;"	f	file:
+variable_buffer	src/expand.c	/^char *variable_buffer;$/;"	v
+variable_buffer_length	src/expand.c	/^static size_t variable_buffer_length;$/;"	v	file:
+variable_buffer_output	src/expand.c	/^variable_buffer_output (char *ptr, const char *string, size_t length)$/;"	f
+variable_changenum	src/variable.c	/^static unsigned long variable_changenum = 0;$/;"	v	file:
+variable_expand	src/expand.c	/^variable_expand (const char *line)$/;"	f
+variable_expand_for_file	src/expand.c	/^variable_expand_for_file (const char *line, struct file *file)$/;"	f
+variable_expand_string	src/expand.c	/^variable_expand_string (char *line, const char *string, size_t length)$/;"	f
+variable_export	src/variable.h	/^enum variable_export$/;"	g
+variable_flavor	src/variable.h	/^enum variable_flavor$/;"	g
+variable_hash_1	src/variable.c	/^variable_hash_1 (const void *keyv)$/;"	f	file:
+variable_hash_2	src/variable.c	/^variable_hash_2 (const void *keyv)$/;"	f	file:
+variable_hash_cmp	src/variable.c	/^variable_hash_cmp (const void *xv, const void *yv)$/;"	f	file:
+variable_origin	src/variable.h	/^enum variable_origin$/;"	g
+variable_set	src/variable.h	/^struct variable_set$/;"	s
+variable_set_list	src/variable.h	/^struct variable_set_list$/;"	s
+variables	src/filedef.h	/^    struct variable_set_list *variables;$/;"	m	struct:file	typeref:struct:file::variable_set_list
+verify_file	src/file.c	/^verify_file (const void *item)$/;"	f	file:
+verify_file_data_base	src/file.c	/^verify_file_data_base (void)$/;"	f
+verify_flag	src/main.c	/^int verify_flag;$/;"	v
+version_string	src/version.c	/^const char *version_string = PACKAGE_VERSION;$/;"	v
+vmodifiers	src/read.c	/^struct vmodifiers$/;"	s	file:
+vms_always_use_cmd_file	src/main.c	/^int vms_always_use_cmd_file = 0;$/;"	v
+vms_comma_separator	src/main.c	/^int vms_comma_separator = 0;$/;"	v
+vms_command	src/vmsfunctions.c	/^vms_command(const char* argv0)$/;"	f
+vms_dcl_symbol_head	src/vms_export_symbol.c	/^static struct dcl_symbol * vms_dcl_symbol_head = NULL;$/;"	v	typeref:struct:dcl_symbol	file:
+vms_exit	src/vms_exit.c	/^vms_exit (int status)$/;"	f
+vms_export_dcl_symbol	src/vms_export_symbol.c	/^vms_export_dcl_symbol (const char * name, const char * value)$/;"	f
+vms_gnv_shell	src/main.c	/^int vms_gnv_shell = 0;$/;"	v
+vms_hash	src/dir.c	/^vms_hash (const char *name)$/;"	f	file:
+vms_legacy_behavior	src/main.c	/^int vms_legacy_behavior = 0;$/;"	v
+vms_new_nam	src/vms_progname.c	/^static char vms_new_nam[256];$/;"	v	file:
+vms_progname	src/vmsfunctions.c	/^vms_progname(const char* argv0)$/;"	f
+vms_putenv_symbol	src/vms_export_symbol.c	/^vms_putenv_symbol (const char * string)$/;"	f
+vms_report_unix_paths	src/main.c	/^int vms_report_unix_paths = 0;$/;"	v
+vms_restore_symbol	src/vms_export_symbol.c	/^vms_restore_symbol (const char * string)$/;"	f
+vms_time_to_unix	src/arscan.c	/^vms_time_to_unix(void *vms_time)$/;"	f	file:
+vms_unix_simulation	src/main.c	/^int vms_unix_simulation = 0;$/;"	v
+vms_use_mcr_command	src/main.c	/^int vms_use_mcr_command = 0;$/;"	v
+vmsify	src/vmsify.c	/^vmsify (const char *name, int type)$/;"	f
+vmsstat_dir	src/dir.c	/^vmsstat_dir (const char *name, struct stat *st)$/;"	f	file:
+vpath	src/filedef.h	/^    const char *vpath;          \/* VPATH\/vpath pathname *\/$/;"	m	struct:file
+vpath	src/vpath.c	/^struct vpath$/;"	s	file:
+vpath_search	src/vpath.c	/^vpath_search (const char *file, FILE_TIMESTAMP *mtime_ptr,$/;"	f
+vpaths	src/vpath.c	/^static struct vpath *vpaths;$/;"	v	typeref:struct:vpath	file:
+w32_kill	src/job.c	/^w32_kill (pid_t pid, int sig)$/;"	f
+w_ampcolon	src/read.c	/^     w_varassign, w_ampcolon, w_ampdcolon$/;"	e	enum:make_word_type	file:
+w_ampdcolon	src/read.c	/^     w_varassign, w_ampcolon, w_ampdcolon$/;"	e	enum:make_word_type	file:
+w_bogus	src/read.c	/^     w_bogus, w_eol, w_static, w_variable, w_colon, w_dcolon, w_semicolon,$/;"	e	enum:make_word_type	file:
+w_colon	src/read.c	/^     w_bogus, w_eol, w_static, w_variable, w_colon, w_dcolon, w_semicolon,$/;"	e	enum:make_word_type	file:
+w_dcolon	src/read.c	/^     w_bogus, w_eol, w_static, w_variable, w_colon, w_dcolon, w_semicolon,$/;"	e	enum:make_word_type	file:
+w_eol	src/read.c	/^     w_bogus, w_eol, w_static, w_variable, w_colon, w_dcolon, w_semicolon,$/;"	e	enum:make_word_type	file:
+w_semicolon	src/read.c	/^     w_bogus, w_eol, w_static, w_variable, w_colon, w_dcolon, w_semicolon,$/;"	e	enum:make_word_type	file:
+w_static	src/read.c	/^     w_bogus, w_eol, w_static, w_variable, w_colon, w_dcolon, w_semicolon,$/;"	e	enum:make_word_type	file:
+w_varassign	src/read.c	/^     w_varassign, w_ampcolon, w_ampdcolon$/;"	e	enum:make_word_type	file:
+w_variable	src/read.c	/^     w_bogus, w_eol, w_static, w_variable, w_colon, w_dcolon, w_semicolon,$/;"	e	enum:make_word_type	file:
+wait_here	src/implicit.c	/^    unsigned int wait_here : 1;$/;"	m	struct:patdeps	file:
+waiting_jobs	src/job.c	/^static struct child *waiting_jobs = 0;$/;"	v	typeref:struct:child	file:
+warn_undefined	src/variable.c	/^warn_undefined (const char *name, size_t len)$/;"	f
+warn_undefined_variables_flag	src/main.c	/^int warn_undefined_variables_flag;$/;"	v
+was_shuffled	src/filedef.h	/^    unsigned int was_shuffled:1; \/* Did we already shuffle 'deps'? used when$/;"	m	struct:file
+wildcard_expansion	src/amiga.c	/^wildcard_expansion (char *wc, char *o)$/;"	f
+windows32_openpipe	src/function.c	/^windows32_openpipe (int *pipedes, int errfd, pid_t *pid_p, char **command_argv, char **envp)$/;"	f
+word1eq	src/read.c	1349;"	d	file:
+word1eq	src/read.c	1534;"	d	file:
+word1eq	src/read.c	169;"	d	file:
+writebuf	src/misc.c	/^writebuf (int fd, const void *buffer, size_t len)$/;"	f
+xcalloc	src/misc.c	/^xcalloc (size_t size)$/;"	f
+xcalloc	src/misc.c	262;"	d	file:
+xmalloc	src/misc.c	/^xmalloc (size_t size)$/;"	f
+xmalloc	src/misc.c	261;"	d	file:
+xrealloc	src/misc.c	/^xrealloc (void *ptr, size_t size)$/;"	f
+xrealloc	src/misc.c	263;"	d	file:
+xstrdup	src/misc.c	/^xstrdup (const char *ptr)$/;"	f
+xstrdup	src/misc.c	264;"	d	file:
+xstrlen	src/makeint.h	575;"	d
+xstrndup	src/misc.c	/^xstrndup (const char *str, size_t length)$/;"	f

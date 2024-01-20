@@ -2123,7 +2123,7 @@ record_files (struct nameseq *filenames, int are_also_makes,
           implicit_percent = find_percent_cached (&name);
 
           if (implicit_percent == 0)
-            O (fatal, flocp, _("mixed implicit and normal rules"));
+            O (fatal, flocp, _("mixed implicit and normal rules #2"));
 
           targets[c] = name;
           target_pats[c] = implicit_percent;
